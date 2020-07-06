@@ -1,0 +1,4 @@
+# Magic data{#magic}
+![](./magic.png){width=4in}  
+
+Magic the Gathering is a popular collectible card game that includes strategy and chance.  

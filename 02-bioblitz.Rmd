@@ -1,0 +1,4 @@
+# Backyard bioblitz {#bioblitz}
+![](./insects.png){width=4in}  
+
+A bioblitz is a biodiversity survey that is done rapidly for a specific place. 

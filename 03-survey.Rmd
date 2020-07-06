@@ -1,0 +1,4 @@
+# Solo surveys {#survey}
+![](./plant.jpg){width=4in}  
+
+Distributed ecological networks often use surveys done by individuals or small-teams to compile data on species or communities. Transects and quadrats are typically used to structure these 'walk-through' surveys to estimate abundances and distributions of focal species.   

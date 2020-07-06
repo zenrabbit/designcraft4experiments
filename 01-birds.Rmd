@@ -1,0 +1,3 @@
+# Balcony birdwatching {#birds}  
+![](./owl.png){width=4in}  
+Bird observation, from a distance.  

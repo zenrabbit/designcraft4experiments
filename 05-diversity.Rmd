@@ -1,0 +1,4 @@
+# Diversity data{#diversity}
+![](./gbif.png){width=4in}  
+
+Diversity data from ebird or any citizen science project.
