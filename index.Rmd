@@ -15,15 +15,19 @@ description: "This is a set of at-home practical exercises for experimental desi
 
 ![](./rabbit.png){width=4in}  
 
-Welcome to experimental design. There are two sets of three exercises provided to explore principles for better experiments. This is a simple book to support the practical, at-home learning associated with experimental design.
+Welcome to experimental design. There are two sets of three exercises provided to explore principles for better experiments. This is a simple book to support the practical, at-home learning associated with experimental design. The text Experimental Design for the Life Sciences underpins the design principles [@RN6381].
 
-There are two primary modules. Field experiments comprises three outdoor experiments to explore sampling heterogeneous, complex processes in natural systems.  The purpose is to provide choice. You need to try each, briefly, as a pilot experiment only. Then, select one to pursue in depth and write up.  
+There are two primary modules. 
 
-The data experiments describe the opportunity to use design thinking to structure existing data that others have already collected. The same principles for better experiments still apply in how you reuse the data. There are also three examples provided. Select only one and write up.  
+(1) Field experiments comprises three outdoor experiments to explore sampling heterogeneous, complex processes in natural systems.  The purpose is to provide choice. You need to try each, briefly, as a pilot experiment only. Then, select one to pursue in depth and write up as a research article.  
 
-#### Gear and prep for field experiments
+(2) The data experiments describe the opportunity to use design thinking to structure existing data that others have already collected. The same principles for better experiments still apply in how you reuse the data. There are also three examples provided. Select only one and write up as a note.  
 
-#### Prerequisites for data experiment
+Both report formats supported by [FACETS](https://www.facetsjournal.com/about/). It is the first and only open access science journal in Canada. 
+
+#### Field experiments gear and prep {-}
+
+#### Data-design experiment prerequisites {-}
 
 
 
