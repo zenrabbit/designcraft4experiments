@@ -1,6 +1,12 @@
 # Balcony birdwatching {#birds}  
 ![](./owl.png){width=4in}  
-Bird observation, from a distance.  
+Bird observation, from a distance. 
+
+#### Learning outcomes {-}  
+1. Identify common species of birds locally.  
+2. Collect a dataset.  
+3. Connect principles of experimental design to implementation.  
+4. Write clear and reusable meta-data.  
 
 #### Steps {-}  
 1. Scout out a location with more than a single species of birds and a frequency of a few different individuals of birds over a 5-10 minute duration.  
@@ -11,7 +17,7 @@ Bird observation, from a distance.
 6. Sign out a bird guide for your region from the library or university or try out a [free app](https://www.birds.cornell.edu/k12/best-apps-for-birding-with-kids/) for now to support identification.
 
 #### Data {-}  
-[Here](./birds.csv) is a sample datasheet for the pilot experiment. This is set up as species-level observations, i.e. each row or replicate is a species of bird you observe. This datasheet is for the pilot experiment, and it is a stepping stone for the deeper dive experiment if you choose to complete this experiment for your first report. A more detailed datasheet can consider duration or start and stop times of each individual bird, more details on the environment, or record interesting ecological or environmental variables that are present in the environment too - noise, disturbance, squirrels, other birds, etc.    
+[Here](https://figshare.com/articles/dataset/BIOL3250_birds_datasheet/12756101) is a sample datasheet for the pilot experiment. This is set up as species-level observations, i.e. each row or replicate is a species of bird you observe. This datasheet is for the pilot experiment, and it is a stepping stone for the deeper dive experiment if you choose to complete this experiment for your first report. A more detailed datasheet can consider duration or start and stop times of each individual bird, more details on the environment, or record interesting ecological or environmental variables that are present in the environment too - noise, disturbance, squirrels, other birds, etc.    
 
 #### Meta-data {-}  
 In many disciplines of science, meta-data are the descriptive elements of the dataset. They provide a clear means for discovery and reuse of data collected - by you in future and for others [@RN3201; @RN6774]. For the purposes of our practical learning in experimental design here, describe what each column in our dataset means, describe the structure of your dataset (i.e. each row is a species-level observation, or plot, or transect), describe the duration of sampling, location, and provide a bit of guidance for someone to use in inspecting the dataset. It is very similar to the methods in conventional publications or standard reports, but it ensures each attribute in the dataset has a brief description. It is also superb preparation for the methods if you choose to write a report.     
