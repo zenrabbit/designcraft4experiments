@@ -15,9 +15,9 @@ description: "This is a set of at-home practical exercises for experimental desi
 
 ![](./rabbit.png){width=4in}  
 
-Welcome to experimental design. There are two sets of three exercises provided to explore principles for better experiments. This is a simple book to support the practical, at-home learning associated with experimental design. The text 'Experimental Design for the Life Sciences' underpins the design principles [@RN6381].
+Welcome to experimental design. There are two sets of three exercises provided to explore principles for better experiments. This is a simple book to support the practical, at-home learning associated with experimental design. The text 'Experimental Design for the Life Sciences' underpins the design principles [@RN6381].  
 
-There are two primary modules. 
+Life is an experiment. Individually and collectively. We experiment everyday. This is an opportunity to formalize some of those processes and make the learning from experimental design thinking a craft you can apply to all challenges. There are two primary modules to support this process. 
 
 (1) Field experiments comprises three outdoor experiments to explore sampling heterogeneous, complex processes in natural systems.  The purpose is to provide choice. You need to try each, briefly, as a pilot experiment only. Then, select one to pursue in depth and write up as a research article.  
 
