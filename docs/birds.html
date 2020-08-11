@@ -137,8 +137,17 @@ Bird observation, from a distance.</p>
 <div id="data" class="section level4 unnumbered">
 <h4>Data</h4>
 <p><a href="https://figshare.com/articles/dataset/BIOL3250_birds_datasheet/12756101">Here</a> is a sample datasheet for the pilot experiment. This is set up as species-level observations, i.e. each row or replicate is a species of bird you observe. This datasheet is for the pilot experiment, and it is a stepping stone for the deeper dive experiment if you choose to complete this experiment for your first report. A more detailed datasheet can consider duration or start and stop times of each individual bird, more details on the environment, or record interesting ecological or environmental variables that are present in the environment too - noise, disturbance, squirrels, other birds, etc.</p>
+<p>Data can be organized in many different formats depending on the approach to collecting the data in the field or the lab, the instrument or method used, preference, or accepted standards within the domain of study. In many modern data science endeavours, data are also formatted according to the principles of ‘tidy data’ <span class="citation">(Wickham <a href="references.html#ref-RN4416" role="doc-biblioref">2014</a>)</span>. The following three rules define data as tidy <span class="citation">(Grolemund and Wickham <a href="references.html#ref-RN4369" role="doc-biblioref">2016</a>)</span>.</p>
+<ol style="list-style-type: decimal">
+<li>Each variable must have its own column.<br />
+</li>
+<li>Each observation must have its own row.<br />
+</li>
+<li>Each value must have its own cell.</li>
+</ol>
+<p>Most scripting languages such as <a href="https://www.r-project.org">R</a> or <a href="https://www.python.org">Python</a> can resolve and tidy up data to adhere to these principles, but with a little planning, your data can be set up to facilitate this process and enable easier data visualization and models.</p>
 <p><strong>Sample data set</strong><br />
-In this example, the field observations were coded as one species per behaviour per row. Data can be organized in many different formats depending on the approach to collecting the data in the field or the lab, the instrument or method used, preference, or accepted standards within the domain of study.</p>
+In this example, the field observations were coded as one species per behaviour per row. A compromise between tidiness and ease of collecting the tallies per species in the field.</p>
 <table>
 <thead>
 <tr class="header">

@@ -161,8 +161,23 @@ Bird observation, from a distance.
 
 \href{https://figshare.com/articles/dataset/BIOL3250_birds_datasheet/12756101}{Here} is a sample datasheet for the pilot experiment. This is set up as species-level observations, i.e.~each row or replicate is a species of bird you observe. This datasheet is for the pilot experiment, and it is a stepping stone for the deeper dive experiment if you choose to complete this experiment for your first report. A more detailed datasheet can consider duration or start and stop times of each individual bird, more details on the environment, or record interesting ecological or environmental variables that are present in the environment too - noise, disturbance, squirrels, other birds, etc.
 
+Data can be organized in many different formats depending on the approach to collecting the data in the field or the lab, the instrument or method used, preference, or accepted standards within the domain of study. In many modern data science endeavours, data are also formatted according to the principles of `tidy data' \citep{RN4416}. The following three rules define data as tidy \citep{RN4369}.
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Each variable must have its own column.\\
+\item
+  Each observation must have its own row.\\
+\item
+  Each value must have its own cell.
+\end{enumerate}
+
+Most scripting languages such as \href{https://www.r-project.org}{R} or \href{https://www.python.org}{Python} can resolve and tidy up data to adhere to these principles, but with a little planning, your data can be set up to facilitate this process and enable easier data visualization and models.
+
 \textbf{Sample data set}\\
-In this example, the field observations were coded as one species per behaviour per row. Data can be organized in many different formats depending on the approach to collecting the data in the field or the lab, the instrument or method used, preference, or accepted standards within the domain of study.
+In this example, the field observations were coded as one species per behaviour per row. A compromise between tidiness and ease of collecting the tallies per species in the field.
 
 \begin{tabular}{rllllrl}
 \toprule
@@ -239,9 +254,9 @@ Data associated with humans. Fitbit steps and sleep.
 \subsubsection*{Experimental design assessment framework}\label{experimental-design-assessment-framework}}
 \addcontentsline{toc}{subsubsection}{Experimental design assessment framework}
 
-There are at least two primary modes of assessment. Formative assessment can happen during the learning process. This active process of engagement with content and doing experiments is critical to becoming an effective life-long learner and successful scientist. In practicing experimental design and doing experiments professionally, this can take the of form of notes, sketches, photographs of the process or experiment at different steps, flowcharts, field and lab notebooks, code, and discussion with collaborators. This process of learning can include feedback from the team (in this course the teaching assistant, the instructor, or peers examining the same challenge). It can be enabled by testing how well one has advanced in achieving specific outcomes. For instance, share your meta-data with a peer and explore whether the individual can understand the meaning of the data and the process of experimentation that supported the collection or reuse of data. Summative assessment can happen at the end of key benchmarks in a learning cycle or at the completion of logical stopping points within the learning process that generated concrete products for review and grading. In this designcraft process of actively exploring experimental design, this can include production of data with meta-data, a lab report describing the deeper dive for one of the field experiments, and a lab report describing the design process of data reuse from one the examples provided.
+There are at least two primary modes of assessment \citep{RN6795}. Formative assessment can happen during the learning process \citep{RN6796}. This active process of engagement with content and doing experiments is critical to becoming an effective life-long learner and successful scientist. In practicing experimental design and doing experiments professionally, this can take the of form of notes, sketches, photographs of the process or experiment at different steps, flowcharts, field and lab notebooks, code, and discussion with collaborators. This process of learning can include feedback from the team (in this course the teaching assistant, the instructor, or peers examining the same challenge). It can be enabled by testing how well one has advanced in achieving specific outcomes. For instance, share your meta-data with a peer and explore whether the individual can understand the meaning of the data and the process of experimentation that supported the collection or reuse of data. Summative assessment can happen at the end of key benchmarks in a learning cycle or at the completion of logical stopping points within the learning process that generated concrete products for review and grading \citep{RN6798}. In this designcraft process of actively exploring experimental design, this can include production of data with meta-data, a lab report describing the deeper dive for one of the field experiments, and a lab report describing the design process of data reuse from one the examples provided. The process of formative asessment (steps along the way) and summative assessment (final products) should support one another to consolidate learning \citep{RN6797}.
 
-A rubric is a scoring tool that enables fair, transparent and replicable grading in summative evaluation. Checklists are useful for formative self or peer assessment in the steps along the way to final products. In designcraft for experiments, this applies to the published data with meta-data and lab reports. In the formal offering of these labs for the course `SC/BIOL 3250 4.00 Experimental design for environmental and evolutionary biology' at York University, the lab component is worth 50\% of the final grade.
+A rubric is a scoring tool that enables fair, transparent and replicable grading in summative evaluation \citep{RN6799}. Checklists are useful for formative self or peer assessment in the steps along the way to final products. In designcraft for experiments, this applies to the published data with meta-data and lab reports. In the formal offering of these labs for the course `SC/BIOL 3250 4.00 Experimental design for environmental and evolutionary biology' at York University, the lab component is worth 50\% of the final grade.
 
 \hypertarget{lab-component-weightings}{%
 \subsubsection*{Lab component weightings}\label{lab-component-weightings}}

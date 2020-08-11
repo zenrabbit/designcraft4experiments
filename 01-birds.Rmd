@@ -18,11 +18,18 @@ Bird observation, from a distance.
 6. Sign out a bird guide for your region from the library or university or try out a [free app](https://www.birds.cornell.edu/k12/best-apps-for-birding-with-kids/) for now to support identification.
 
 #### Data {-}  
-[Here](https://figshare.com/articles/dataset/BIOL3250_birds_datasheet/12756101) is a sample datasheet for the pilot experiment. This is set up as species-level observations, i.e. each row or replicate is a species of bird you observe. This datasheet is for the pilot experiment, and it is a stepping stone for the deeper dive experiment if you choose to complete this experiment for your first report. A more detailed datasheet can consider duration or start and stop times of each individual bird, more details on the environment, or record interesting ecological or environmental variables that are present in the environment too - noise, disturbance, squirrels, other birds, etc.
+[Here](https://figshare.com/articles/dataset/BIOL3250_birds_datasheet/12756101) is a sample datasheet for the pilot experiment. This is set up as species-level observations, i.e. each row or replicate is a species of bird you observe. This datasheet is for the pilot experiment, and it is a stepping stone for the deeper dive experiment if you choose to complete this experiment for your first report. A more detailed datasheet can consider duration or start and stop times of each individual bird, more details on the environment, or record interesting ecological or environmental variables that are present in the environment too - noise, disturbance, squirrels, other birds, etc.  
+
+Data can be organized in many different formats depending on the approach to collecting the data in the field or the lab, the instrument or method used, preference, or accepted standards within the domain of study. In many modern data science endeavours, data are also formatted according to the principles of 'tidy data' [@RN4416]. The following three rules define data as tidy [@RN4369].  
+
+1. Each variable must have its own column.  
+2. Each observation must have its own row.  
+3. Each value must have its own cell.   
+
+Most scripting languages such as [R](https://www.r-project.org) or [Python](https://www.python.org) can resolve and tidy up data to adhere to these principles, but with a little planning, your data can be set up to facilitate this process and enable easier data visualization and models.  
 
 **Sample data set**  
-In this example, the field observations were coded as one species per behaviour per row. Data can be organized in many different formats depending on the approach to collecting the data in the field or the lab, the instrument or method used, preference, or accepted standards within the domain of study.  
-
+In this example, the field observations were coded as one species per behaviour per row. A compromise between tidiness and ease of collecting the tallies per species in the field.  
 
 ```{r, warning=FALSE, message=FALSE, echo=FALSE}
 library(tidyverse)
