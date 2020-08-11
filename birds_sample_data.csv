@@ -1,0 +1,13 @@
+rep,date,researcher,location,species,frequency,behaviour
+1,15/9/2020,cl,"High Park, Toronto",House sparrow,12,flying
+2,15/9/2020,cl,"High Park, Toronto",Blue jay,2,foraging
+3,15/9/2020,cl,"High Park, Toronto",Cedar waxwing,1,perching
+4,15/9/2020,cl,"High Park, Toronto",Cedar waxwing,3,foraging
+5,15/9/2020,cl,"High Park, Toronto",Dark-eyed junco,2,flying
+6,15/9/2020,cl,"High Park, Toronto",Black-capped Chickadee,3,foraging
+7,15/9/2020,cl,"High Park, Toronto",Black-capped Chickadee,2,posturing
+8,15/9/2020,cl,"High Park, Toronto",Black-capped Chickadee,3,interacting with another bird
+9,15/9/2020,cl,"High Park, Toronto",Black-capped Chickadee,2,sitting
+10,15/9/2020,cl,"High Park, Toronto",Wood thrush,2,flying
+11,15/9/2020,cl,"High Park, Toronto",Wood thrush,5,on ground
+12,15/9/2020,cl,"High Park, Toronto",Northern flicker,1,perching in a tree
