@@ -1,0 +1,6 @@
+item,description,criteria
+1,design,plan design
+2,dataset,"plan a tidy dataset, ensure variables can test predictions"
+3,meta-data,"take detailed notes, record key techniques"
+4,meta-data,get a peer to review data and meta-data 
+5,open science,"publish data and meta-data, ensure clear title, location, and details sufficient"

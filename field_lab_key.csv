@@ -1,0 +1,9 @@
+page,concept,description,value
+1,Title & abstract,"Title of experiment, your name, contact details, abstract that describes experiment",5
+2-3,Introduction,"Sets the context, explains why study needs to be done, state hypothesis and predictions",5
+4,Methods,Decribed well enough for someone else to replicate design,5
+5,Results,Clear text should be able to stand alone including description of statistics,5
+6-7,Discussion,Restate findings in brief and then propose significance of the work,5
+8,Literature cited,At least 5 recent papers on topic and 2 on design decisions,0
+9,Figure legend,Figure legend describing what the figure shows.,2
+10,Figure,Figure on a single page,3
