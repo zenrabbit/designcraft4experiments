@@ -7,6 +7,7 @@ Bird observation, from a distance.
 2. Collect a dataset.  
 3. Connect principles of experimental design to implementation.  
 4. Write clear and reusable meta-data.  
+5. Contribute to open science by publishing data and meta-data.  
 
 #### Steps {-}  
 1. Scout out a location with more than a single species of birds and a frequency of a few different individuals of birds over a 5-10 minute duration.  
