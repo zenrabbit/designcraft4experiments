@@ -1,4 +1,24 @@
 # Magic data{#magic}
 ![](./magic.png){width=4in}  
 
-Magic the Gathering is a popular collectible card game that includes strategy and chance.  
+[Magic the Gathering](https://magic.wizards.com/en) is a popular collectible card game that includes strategy and chance.  
+
+#### Learning outcomes {-}  
+1. Appreciate the complexity of plant communities.  
+2. Collect a dataset.  
+3. Connect principles of experimental design to implementation.  
+4. Write clear and reusable meta-data.  
+5. Contribute to open science by publishing data and meta-data.  
+
+#### Steps {-}  
+1. Select a location that has at least 50m of space to walk a straight line unimpeded.  This can be a forest, lot, disturbed area, grassland, or even a parking lot with enough cracks and permeable spots for plants to grow.        
+2. Run out a piece of string, rope, or just measure 1m and line it up visually for a total length of 50m.  
+3. Every meter, place a 0.5m quadrat or 0.5 by 0.5m square (string, ruler, cardboard, pvc pipe, measured piece of bamboo) on the ground.  
+4. Record the total number of different plant species present (i.e. species richness).  
+5. Estimate the total cover of all plants within the quadrat from 0 to 100% cover.  
+
+#### Data {-}  
+[Here](https://figshare.com/articles/dataset/Magic_The_Gathering_Data/12797474) are the data collected by a researcher at York University. These data are the first of their kind and super fascinating. 
+
+#### Deeper dive {-}
+If you choose this adventure, your goal is to experiment with the method of measuring plant communities. Innovate on the pilot experiment design and add more depth to your quantitative description of the plant community. These innovations can include deeper insights into the structure of the community (height of plants, density of all plants, or spatial patterns) or the composition (i.e. species identity, abundance per species per plot, flowering or not, native or invasive, or by plant functional groups). The predictions should be logical and reasonable outcomes if the hypothesis is a good approximation of how the system works, i.e. the key variables that make it work. Predictions should be testable and read like simple sentences that describe results.  The goal of the deeper-dive experiment is to take your pilot experiment, examine what worked and did not work so well in your experiment, and do a deeper and more thorough job of testing a key idea that you are interested in associated with biodiversity patterns locally. The goal should be to explore one key factor that can be used to describe or predict plant community structure or composition for the specific habitat sampled.   
