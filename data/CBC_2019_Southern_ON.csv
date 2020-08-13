@@ -1,0 +1,1037 @@
+city,species,n,number_per_party_hrs
+Toronto,Canada Goose,"1,643",7.3843
+Toronto,Mute Swan,61,0.2742
+Toronto,Trumpeter Swan,50,0.2247
+Toronto,Wood Duck,6,0.0270
+Toronto,Gadwall,121,0.5438
+Toronto,American Wigeon,37,0.1663
+Toronto,American Black Duck,39,0.1753
+Toronto,Mallard,"2,478",11.1371
+Toronto,Northern Shoveler,1,0.0045
+Toronto,Northern Pintail,1,0.0045
+Toronto,Redhead,305,1.3708
+Toronto,Ring-necked Duck,1,0.0045
+Toronto,Greater Scaup,"1,216",5.4652
+Toronto,Lesser Scaup,7,0.0315
+Toronto,White-winged Scoter,113,0.5079
+Toronto,Black Scoter,2,0.0090
+Toronto,Long-tailed Duck,"3,130",14.0674
+Toronto,Bufflehead,369,1.6584
+Toronto,Common Goldeneye,915,4.1124
+Toronto,Hooded Merganser,45,0.2022
+Toronto,Common Merganser,152,0.6831
+Toronto,Red-breasted Merganser,347,1.5596
+Toronto,merganser sp.,11,0.0494
+Toronto,Ruffed Grouse,1,0.0045
+Toronto,Common Loon,1,0.0045
+Toronto,Horned Grebe,2,0.0090
+Toronto,Double-crested Cormorant,2,0.0090
+Toronto,Great Blue Heron (Blue form),11,0.0494
+Toronto,Black-crowned Night-Heron,5,0.0225
+Toronto,Turkey Vulture,1,0.0045
+Toronto,Sharp-shinned Hawk,3,0.0135
+Toronto,Cooper's Hawk,20,0.0899
+Toronto,Accipiter sp.,1,0.0045
+Toronto,Red-tailed Hawk,100,0.4494
+Toronto,Dunlin,1,0.0045
+Toronto,Purple Sandpiper,1,0.0045
+Toronto,Ring-billed Gull,"1,468",6.5978
+Toronto,Herring Gull,368,1.6539
+Toronto,Iceland Gull,1,0.0045
+Toronto,Lesser Black-backed Gull,2,0.0090
+Toronto,Great Black-backed Gull,12,0.0539
+Toronto,Rock Pigeon (Feral Pigeon),"4,025",18.0899
+Toronto,Mourning Dove,129,0.5798
+Toronto,Eastern Screech-Owl,3,0.0135
+Toronto,Belted Kingfisher,3,0.0135
+Toronto,Red-bellied Woodpecker,15,0.0674
+Toronto,Downy Woodpecker,177,0.7955
+Toronto,Hairy Woodpecker,57,0.2562
+Toronto,Pileated Woodpecker,1,0.0045
+Toronto,American Kestrel,7,0.0315
+Toronto,Merlin,4,0.0180
+Toronto,Peregrine Falcon,5,0.0225
+Toronto,Blue Jay,83,0.3730
+Toronto,American Crow,90,0.4045
+Toronto,Common Raven,8,0.0360
+Toronto,Black-capped Chickadee,505,2.2697
+Toronto,Red-breasted Nuthatch,33,0.1483
+Toronto,White-breasted Nuthatch,89,0.4000
+Toronto,Brown Creeper,12,0.0539
+Toronto,Winter Wren,9,0.0404
+Toronto,Carolina Wren,6,0.0270
+Toronto,Golden-crowned Kinglet,11,0.0494
+Toronto,Eastern Bluebird,2,0.0090
+Toronto,Swainson's Thrush,1,0.0045
+Toronto,Hermit Thrush,6,0.0270
+Toronto,American Robin,929,4.1753
+Toronto,Brown Thrasher,1,0.0045
+Toronto,Northern Mockingbird,10,0.0449
+Toronto,European Starling,"12,664",56.9169
+Toronto,Yellow-rumped Warbler (Myrtle),1,0.0045
+Toronto,American Tree Sparrow,42,0.1888
+Toronto,Fox Sparrow,1,0.0045
+Toronto,Dark-eyed Junco (Slate-colored),329,1.4787
+Toronto,White-throated Sparrow,64,0.2876
+Toronto,Song Sparrow,14,0.0629
+Toronto,Swamp Sparrow,3,0.0135
+Toronto,Eastern Towhee,1,0.0045
+Toronto,Northern Cardinal,473,2.1258
+Toronto,Red-winged Blackbird,2,0.0090
+Toronto,House Finch,372,1.6719
+Toronto,White-winged Crossbill,7,0.0315
+Toronto,Pine Siskin,18,0.0809
+Toronto,American Goldfinch,755,3.3933
+Toronto,House Sparrow,"2,255",10.1348
+Uxbridge,Canada Goose,326,4.2338
+Uxbridge,Trumpeter Swan,5,0.0649
+Uxbridge,American Black Duck,2,0.0260
+Uxbridge,Mallard,65,0.8442
+Uxbridge,Ruffed Grouse,3,0.0390
+Uxbridge,Wild Turkey,180,2.3377
+Uxbridge,Sharp-shinned Hawk,2,0.0260
+Uxbridge,Cooper's Hawk,1,0.0130
+Uxbridge,Bald Eagle,1,0.0130
+Uxbridge,Red-tailed Hawk,21,0.2727
+Uxbridge,Ring-billed Gull,9,0.1169
+Uxbridge,Rock Pigeon (Feral Pigeon),479,6.2208
+Uxbridge,Mourning Dove,336,4.3636
+Uxbridge,Belted Kingfisher,1,0.0130
+Uxbridge,Red-bellied Woodpecker,14,0.1818
+Uxbridge,Downy Woodpecker,63,0.8182
+Uxbridge,Hairy Woodpecker,37,0.4805
+Uxbridge,Pileated Woodpecker,3,0.0390
+Uxbridge,American Kestrel,1,0.0130
+Uxbridge,Merlin,1,0.0130
+Uxbridge,Northern Shrike,2,0.0260
+Uxbridge,Blue Jay,267,3.4675
+Uxbridge,American Crow,412,5.3506
+Uxbridge,Common Raven,19,0.2468
+Uxbridge,Black-capped Chickadee,604,7.8442
+Uxbridge,Red-breasted Nuthatch,84,1.0909
+Uxbridge,White-breasted Nuthatch,42,0.5455
+Uxbridge,Brown Creeper,8,0.1039
+Uxbridge,Winter Wren,3,0.0390
+Uxbridge,Golden-crowned Kinglet,7,0.0909
+Uxbridge,American Robin,95,1.2338
+Uxbridge,European Starling,"1,210",15.7143
+Uxbridge,Cedar Waxwing,68,0.8831
+Uxbridge,American Tree Sparrow,47,0.6104
+Uxbridge,Dark-eyed Junco,214,2.7792
+Uxbridge,White-throated Sparrow,3,0.0390
+Uxbridge,Song Sparrow,2,0.0260
+Uxbridge,Swamp Sparrow,4,0.0519
+Uxbridge,Northern Cardinal,46,0.5974
+Uxbridge,Brown-headed Cowbird,3,0.0390
+Uxbridge,House Finch,52,0.6753
+Uxbridge,Purple Finch,1,0.0130
+Uxbridge,American Goldfinch,339,4.4026
+Uxbridge,House Sparrow,76,0.9870
+Barrie,Canada Goose,646,7.5866
+Barrie,Trumpeter Swan,19,0.2231
+Barrie,American Black Duck,56,0.6577
+Barrie,Mallard,"1,441",16.9231
+Barrie,Green-winged Teal (American),1,0.0117
+Barrie,Redhead,3,0.0352
+Barrie,Bufflehead,108,1.2683
+Barrie,Common Goldeneye,399,4.6858
+Barrie,Hooded Merganser,20,0.2349
+Barrie,Common Merganser,"1,468",17.2402
+Barrie,Red-breasted Merganser,16,0.1879
+Barrie,duck sp.,6,0.0705
+Barrie,Ruffed Grouse,5,0.0587
+Barrie,Wild Turkey,173,2.0317
+Barrie,Common Loon,1,0.0117
+Barrie,Red-necked Grebe,11,0.1292
+Barrie,Double-crested Cormorant,1,0.0117
+Barrie,Great Blue Heron (Blue form),2,0.0235
+Barrie,Sharp-shinned Hawk,1,0.0117
+Barrie,Cooper's Hawk,5,0.0587
+Barrie,Accipiter sp.,1,0.0117
+Barrie,Red-tailed Hawk,7,0.0822
+Barrie,Ring-billed Gull,33,0.3876
+Barrie,Herring Gull,854,10.0294
+Barrie,Iceland Gull,3,0.0352
+Barrie,Glaucous Gull,6,0.0705
+Barrie,Great Black-backed Gull,46,0.5402
+Barrie,gull sp.,55,0.6459
+Barrie,Rock Pigeon (Feral Pigeon),744,8.7375
+Barrie,Mourning Dove,421,4.9442
+Barrie,Eastern Screech-Owl,3,0.0352
+Barrie,Great Horned Owl,1,0.0117
+Barrie,Snowy Owl,1,0.0117
+Barrie,Barred Owl,2,0.0235
+Barrie,Northern Saw-whet Owl,1,0.0117
+Barrie,Belted Kingfisher,2,0.0235
+Barrie,Red-bellied Woodpecker,17,0.1996
+Barrie,Downy Woodpecker,84,0.9865
+Barrie,Hairy Woodpecker,36,0.4228
+Barrie,Pileated Woodpecker,9,0.1057
+Barrie,woodpecker sp.,1,0.0117
+Barrie,American Kestrel,2,0.0235
+Barrie,Merlin,1,0.0117
+Barrie,Northern Shrike,1,0.0117
+Barrie,Blue Jay,190,2.2314
+Barrie,American Crow,109,1.2801
+Barrie,Common Raven,12,0.1409
+Barrie,Black-capped Chickadee,778,9.1368
+Barrie,Red-breasted Nuthatch,22,0.2584
+Barrie,White-breasted Nuthatch,56,0.6577
+Barrie,Brown Creeper,10,0.1174
+Barrie,Golden-crowned Kinglet,8,0.0940
+Barrie,European Starling,"3,317",38.9548
+Barrie,Cedar Waxwing,40,0.4698
+Barrie,Snow Bunting,6,0.0705
+Barrie,American Tree Sparrow,29,0.3406
+Barrie,Dark-eyed Junco (Slate-colored),248,2.9125
+Barrie,White-throated Sparrow,5,0.0587
+Barrie,Song Sparrow,3,0.0352
+Barrie,Swamp Sparrow,1,0.0117
+Barrie,sparrow sp.,1,0.0117
+Barrie,Northern Cardinal,70,0.8221
+Barrie,House Finch,49,0.5755
+Barrie,Common Redpoll,1,0.0117
+Barrie,American Goldfinch,481,5.6489
+Barrie,House Sparrow,233,2.7363
+Guelph,Canada Goose,"6,343",44.1252
+Guelph,Mute Swan,4,0.0278
+Guelph,Trumpeter Swan,4,0.0278
+Guelph,American Black Duck,30,0.2087
+Guelph,Mallard,"1,567",10.9009
+Guelph,American Black Duck x Mallard (hybrid),1,0.0070
+Guelph,Mallard x Northern Pintail (hybrid),1,0.0070
+Guelph,Green-winged Teal,3,0.0209
+Guelph,Bufflehead,5,0.0348
+Guelph,Common Goldeneye,11,0.0765
+Guelph,Hooded Merganser,6,0.0417
+Guelph,Common Merganser,63,0.4383
+Guelph,Ruffed Grouse,4,0.0278
+Guelph,Wild Turkey,75,0.5217
+Guelph,Great Blue Heron (Blue form),9,0.0626
+Guelph,Great Egret (American),1,0.0070
+Guelph,Sharp-shinned Hawk,1,0.0070
+Guelph,Cooper's Hawk,5,0.0348
+Guelph,Northern Goshawk,2,0.0139
+Guelph,Bald Eagle,10,0.0696
+Guelph,Red-tailed Hawk,62,0.4313
+Guelph,Ring-billed Gull,265,1.8435
+Guelph,Herring Gull,51,0.3548
+Guelph,Great Black-backed Gull,2,0.0139
+Guelph,Rock Pigeon (Feral Pigeon),355,2.4696
+Guelph,Mourning Dove,166,1.1548
+Guelph,Eastern Screech-Owl,3,0.0209
+Guelph,Great Horned Owl,2,0.0139
+Guelph,Belted Kingfisher,2,0.0139
+Guelph,Red-bellied Woodpecker,13,0.0904
+Guelph,Downy Woodpecker,57,0.3965
+Guelph,Hairy Woodpecker,17,0.1183
+Guelph,Pileated Woodpecker,5,0.0348
+Guelph,American Kestrel,1,0.0070
+Guelph,Merlin,1,0.0070
+Guelph,Northern Shrike,1,0.0070
+Guelph,Blue Jay,70,0.4870
+Guelph,American Crow,398,2.7687
+Guelph,Common Raven,33,0.2296
+Guelph,Horned Lark,8,0.0557
+Guelph,Black-capped Chickadee,723,5.0296
+Guelph,Red-breasted Nuthatch,25,0.1739
+Guelph,White-breasted Nuthatch,43,0.2991
+Guelph,Brown Creeper,16,0.1113
+Guelph,Winter Wren,3,0.0209
+Guelph,Golden-crowned Kinglet,31,0.2157
+Guelph,American Robin,78,0.5426
+Guelph,Northern Mockingbird,1,0.0070
+Guelph,European Starling,"1,062",7.3878
+Guelph,Cedar Waxwing,84,0.5843
+Guelph,Snow Bunting,29,0.2017
+Guelph,Common Yellowthroat,1,0.0070
+Guelph,American Tree Sparrow,72,0.5009
+Guelph,Dark-eyed Junco,355,2.4696
+Guelph,White-throated Sparrow,7,0.0487
+Guelph,Song Sparrow,7,0.0487
+Guelph,Swamp Sparrow,4,0.0278
+Guelph,Northern Cardinal,91,0.6330
+Guelph,House Finch,28,0.1948
+Guelph,Common Redpoll,37,0.2574
+Guelph,American Goldfinch,244,1.6974
+Guelph,House Sparrow,126,0.8765
+Hamilton,Cackling Goose,5,0.0261
+Hamilton,Canada Goose,"5,712",29.8667
+Hamilton,Mute Swan,77,0.4026
+Hamilton,Trumpeter Swan,106,0.5542
+Hamilton,Tundra Swan,8,0.0418
+Hamilton,Gadwall,47,0.2458
+Hamilton,American Wigeon,1,0.0052
+Hamilton,American Black Duck,137,0.7163
+Hamilton,Mallard,"4,015",20.9935
+Hamilton,Northern Shoveler,73,0.3817
+Hamilton,Northern Pintail,1,0.0052
+Hamilton,Canvasback,209,1.0928
+Hamilton,Redhead,284,1.4850
+Hamilton,Ring-necked Duck,71,0.3712
+Hamilton,Greater Scaup,"1,119",5.8510
+Hamilton,Lesser Scaup,452,2.3634
+Hamilton,King Eider,1,0.0052
+Hamilton,Surf Scoter,28,0.1464
+Hamilton,White-winged Scoter,"1,604",8.3869
+Hamilton,Black Scoter,5,0.0261
+Hamilton,Long-tailed Duck,"2,236",11.6915
+Hamilton,Bufflehead,316,1.6523
+Hamilton,Common Goldeneye,"3,317",17.3438
+Hamilton,Barrow's Goldeneye,1,0.0052
+Hamilton,Hooded Merganser,174,0.9098
+Hamilton,Common Merganser,"2,060",10.7712
+Hamilton,Red-breasted Merganser,781,4.0837
+Hamilton,Ruddy Duck,291,1.5216
+Hamilton,Wild Turkey,22,0.1150
+Hamilton,Common Loon,6,0.0314
+Hamilton,loon sp.,1,0.0052
+Hamilton,Pied-billed Grebe,1,0.0052
+Hamilton,Horned Grebe,3,0.0157
+Hamilton,Red-necked Grebe,3,0.0157
+Hamilton,Double-crested Cormorant,91,0.4758
+Hamilton,Great Blue Heron (Blue form),4,0.0209
+Hamilton,Black-crowned Night-Heron,1,0.0052
+Hamilton,Sharp-shinned Hawk,2,0.0105
+Hamilton,Cooper's Hawk,19,0.0993
+Hamilton,Bald Eagle,5,0.0261
+Hamilton,Red-tailed Hawk,89,0.4654
+Hamilton,hawk sp.,3,0.0157
+Hamilton,American Coot,8,0.0418
+Hamilton,Ring-billed Gull,"1,127",5.8928
+Hamilton,Herring Gull,568,2.9699
+Hamilton,Iceland Gull,1,0.0052
+Hamilton,Iceland Gull (kumlieni),1,0.0052
+Hamilton,Lesser Black-backed Gull,2,0.0105
+Hamilton,Glaucous Gull,1,0.0052
+Hamilton,Great Black-backed Gull,84,0.4392
+Hamilton,gull sp.,5,0.0261
+Hamilton,Rock Pigeon (Feral Pigeon),"1,297",6.7817
+Hamilton,Mourning Dove,889,4.6484
+Hamilton,Eastern Screech-Owl,8,0.0418
+Hamilton,Great Horned Owl,3,0.0157
+Hamilton,Belted Kingfisher,7,0.0366
+Hamilton,Red-bellied Woodpecker,115,0.6013
+Hamilton,Downy Woodpecker,248,1.2967
+Hamilton,Hairy Woodpecker,103,0.5386
+Hamilton,Downy/Hairy Woodpecker,2,0.0105
+Hamilton,Northern Flicker,11,0.0575
+Hamilton,Pileated Woodpecker,10,0.0523
+Hamilton,American Kestrel,4,0.0209
+Hamilton,Merlin,3,0.0157
+Hamilton,Peregrine Falcon,3,0.0157
+Hamilton,Northern Shrike,4,0.0209
+Hamilton,Blue Jay,314,1.6418
+Hamilton,American Crow,556,2.9072
+Hamilton,Common Raven,6,0.0314
+Hamilton,Black-capped Chickadee,928,4.8523
+Hamilton,Tufted Titmouse,4,0.0209
+Hamilton,Red-breasted Nuthatch,14,0.0732
+Hamilton,White-breasted Nuthatch,203,1.0614
+Hamilton,Brown Creeper,17,0.0889
+Hamilton,Winter Wren,25,0.1307
+Hamilton,Marsh Wren,1,0.0052
+Hamilton,Carolina Wren,122,0.6379
+Hamilton,Golden-crowned Kinglet,23,0.1203
+Hamilton,Eastern Bluebird,24,0.1255
+Hamilton,Hermit Thrush,3,0.0157
+Hamilton,American Robin,448,2.3425
+Hamilton,Gray Catbird,4,0.0209
+Hamilton,Northern Mockingbird,15,0.0784
+Hamilton,European Starling,"2,631",13.7569
+Hamilton,Cedar Waxwing,333,1.7412
+Hamilton,Snow Bunting,1,0.0052
+Hamilton,Yellow-rumped Warbler (Myrtle),2,0.0105
+Hamilton,American Tree Sparrow,113,0.5908
+Hamilton,Chipping Sparrow,2,0.0105
+Hamilton,Dark-eyed Junco,724,3.7856
+Hamilton,White-crowned Sparrow,5,0.0261
+Hamilton,White-throated Sparrow,90,0.4706
+Hamilton,Song Sparrow,46,0.2405
+Hamilton,Swamp Sparrow,4,0.0209
+Hamilton,Northern Cardinal,438,2.2902
+Hamilton,Rusty Blackbird,1,0.0052
+Hamilton,Brown-headed Cowbird,1,0.0052
+Hamilton,blackbird sp.,2,0.0105
+Hamilton,House Finch,314,1.6418
+Hamilton,Common Redpoll,2,0.0105
+Hamilton,Pine Siskin,2,0.0105
+Hamilton,American Goldfinch,645,3.3725
+Hamilton,House Sparrow,"1,415",7.3987
+Kingston,Canada Goose,"9,674",103.6870
+Kingston,Mute Swan,349,3.7406
+Kingston,Tundra Swan,109,1.1683
+Kingston,Trumpeter/Tundra Swan,46,0.4930
+Kingston,Gadwall,78,0.8360
+Kingston,American Wigeon,1,0.0107
+Kingston,American Black Duck,60,0.6431
+Kingston,Mallard,"2,967",31.8006
+Kingston,Redhead,112,1.2004
+Kingston,Ring-necked Duck,89,0.9539
+Kingston,Greater Scaup,"2,493",26.7203
+Kingston,Greater/Lesser Scaup,370,3.9657
+Kingston,White-winged Scoter,10,0.1072
+Kingston,Long-tailed Duck,456,4.8875
+Kingston,Bufflehead,150,1.6077
+Kingston,Common Goldeneye,213,2.2830
+Kingston,Hooded Merganser,31,0.3323
+Kingston,Common Merganser,198,2.1222
+Kingston,Red-breasted Merganser,214,2.2937
+Kingston,merganser sp.,48,0.5145
+Kingston,duck sp.,47,0.5038
+Kingston,Ruffed Grouse,2,0.0214
+Kingston,Wild Turkey,37,0.3966
+Kingston,Common Loon,2,0.0214
+Kingston,Great Blue Heron (Blue form),1,0.0107
+Kingston,Northern Harrier,3,0.0322
+Kingston,Sharp-shinned Hawk,1,0.0107
+Kingston,Cooper's Hawk,2,0.0214
+Kingston,Bald Eagle,18,0.1929
+Kingston,Red-tailed Hawk,18,0.1929
+Kingston,Buteo sp.,1,0.0107
+Kingston,Ring-billed Gull,213,2.2830
+Kingston,Herring Gull,222,2.3794
+Kingston,Iceland Gull,1,0.0107
+Kingston,Great Black-backed Gull,13,0.1393
+Kingston,gull sp.,45,0.4823
+Kingston,Rock Pigeon (Feral Pigeon),464,4.9732
+Kingston,Mourning Dove,359,3.8478
+Kingston,Eastern Screech-Owl,3,0.0322
+Kingston,Great Horned Owl,1,0.0107
+Kingston,Snowy Owl,13,0.1393
+Kingston,Barred Owl,1,0.0107
+Kingston,Belted Kingfisher,2,0.0214
+Kingston,Red-bellied Woodpecker,12,0.1286
+Kingston,Downy Woodpecker,83,0.8896
+Kingston,Hairy Woodpecker,22,0.2358
+Kingston,Downy/Hairy Woodpecker,1,0.0107
+Kingston,Pileated Woodpecker,1,0.0107
+Kingston,American Kestrel,1,0.0107
+Kingston,Merlin,4,0.0429
+Kingston,Blue Jay,245,2.6259
+Kingston,American Crow,809,8.6710
+Kingston,Common Raven,24,0.2572
+Kingston,Black-capped Chickadee,723,7.7492
+Kingston,Red-breasted Nuthatch,11,0.1179
+Kingston,White-breasted Nuthatch,92,0.9861
+Kingston,Brown Creeper,7,0.0750
+Kingston,Golden-crowned Kinglet,12,0.1286
+Kingston,Hermit Thrush,1,0.0107
+Kingston,American Robin,150,1.6077
+Kingston,Northern Mockingbird,2,0.0214
+Kingston,European Starling,"2,459",26.3558
+Kingston,Cedar Waxwing,39,0.4180
+Kingston,Snow Bunting,40,0.4287
+Kingston,American Tree Sparrow,23,0.2465
+Kingston,Dark-eyed Junco (Slate-colored),214,2.2937
+Kingston,White-throated Sparrow,9,0.0965
+Kingston,Song Sparrow,7,0.0750
+Kingston,Swamp Sparrow,1,0.0107
+Kingston,Northern Cardinal,98,1.0504
+Kingston,Red-winged Blackbird,2,0.0214
+Kingston,Common Grackle,1,0.0107
+Kingston,House Finch,184,1.9721
+Kingston,Pine Siskin,6,0.0643
+Kingston,American Goldfinch,214,2.2937
+Kingston,House Sparrow,111,1.1897
+Kingston,passerine sp.,25,0.2680
+Kleinburg,Canada Goose,"6,691",93.5804
+Kleinburg,American Black Duck,8,0.1119
+Kleinburg,Mallard,706,9.8741
+Kleinburg,Common Goldeneye,4,0.0559
+Kleinburg,Hooded Merganser,1,0.0140
+Kleinburg,Ruffed Grouse,1,0.0140
+Kleinburg,Wild Turkey,9,0.1259
+Kleinburg,Great Blue Heron (Blue form),3,0.0420
+Kleinburg,Sharp-shinned Hawk,3,0.0420
+Kleinburg,Cooper's Hawk,6,0.0839
+Kleinburg,Accipiter sp.,2,0.0280
+Kleinburg,Red-tailed Hawk,32,0.4476
+Kleinburg,Rough-legged Hawk,1,0.0140
+Kleinburg,hawk sp.,2,0.0280
+Kleinburg,eagle sp.,1,0.0140
+Kleinburg,American Coot,1,0.0140
+Kleinburg,Ring-billed Gull,229,3.2028
+Kleinburg,Herring Gull,38,0.5315
+Kleinburg,gull sp.,18,0.2517
+Kleinburg,Rock Pigeon (Feral Pigeon),254,3.5524
+Kleinburg,Mourning Dove,235,3.2867
+Kleinburg,Eastern Screech-Owl,1,0.0140
+Kleinburg,Great Horned Owl,1,0.0140
+Kleinburg,Red-bellied Woodpecker,11,0.1538
+Kleinburg,Downy Woodpecker,46,0.6434
+Kleinburg,Hairy Woodpecker,21,0.2937
+Kleinburg,Northern Flicker,1,0.0140
+Kleinburg,Pileated Woodpecker,3,0.0420
+Kleinburg,American Kestrel,6,0.0839
+Kleinburg,falcon sp.,1,0.0140
+Kleinburg,Northern Shrike,1,0.0140
+Kleinburg,Blue Jay,41,0.5734
+Kleinburg,American Crow,124,1.7343
+Kleinburg,Common Raven,23,0.3217
+Kleinburg,Black-capped Chickadee,341,4.7692
+Kleinburg,Red-breasted Nuthatch,20,0.2797
+Kleinburg,White-breasted Nuthatch,27,0.3776
+Kleinburg,Brown Creeper,1,0.0140
+Kleinburg,Golden-crowned Kinglet,10,0.1399
+Kleinburg,Eastern Bluebird,6,0.0839
+Kleinburg,Hermit Thrush,1,0.0140
+Kleinburg,American Robin,105,1.4685
+Kleinburg,Northern Mockingbird,1,0.0140
+Kleinburg,European Starling,"1,402",19.6084
+Kleinburg,Cedar Waxwing,95,1.3287
+Kleinburg,American Tree Sparrow,25,0.3497
+Kleinburg,Dark-eyed Junco,259,3.6224
+Kleinburg,White-throated Sparrow,4,0.0559
+Kleinburg,Song Sparrow,2,0.0280
+Kleinburg,sparrow sp.,2,0.0280
+Kleinburg,Northern Cardinal,90,1.2587
+Kleinburg,House Finch,39,0.5455
+Kleinburg,American Goldfinch,116,1.6224
+Kleinburg,House Sparrow,98,1.3706
+Niagara Falls,Canada Goose,805,10.2875
+Niagara Falls,Mute Swan,1,0.0128
+Niagara Falls,Trumpeter Swan,9,0.1150
+Niagara Falls,Gadwall,12,0.1534
+Niagara Falls,American Wigeon,10,0.1278
+Niagara Falls,American Black Duck,4,0.0511
+Niagara Falls,Mallard,140,1.7891
+Niagara Falls,Canvasback,26,0.3323
+Niagara Falls,Greater Scaup,47,0.6006
+Niagara Falls,White-winged Scoter,274,3.5016
+Niagara Falls,Black Scoter,1,0.0128
+Niagara Falls,Long-tailed Duck,279,3.5655
+Niagara Falls,Bufflehead,36,0.4601
+Niagara Falls,Common Goldeneye,188,2.4026
+Niagara Falls,Hooded Merganser,5,0.0639
+Niagara Falls,Common Merganser,439,5.6102
+Niagara Falls,Red-breasted Merganser,647,8.2684
+Niagara Falls,duck sp.,8,0.1022
+Niagara Falls,Wild Turkey,24,0.3067
+Niagara Falls,Red-throated Loon,6,0.0767
+Niagara Falls,Pied-billed Grebe,1,0.0128
+Niagara Falls,Horned Grebe,3,0.0383
+Niagara Falls,Red-necked Grebe,2,0.0256
+Niagara Falls,Double-crested Cormorant,13,0.1661
+Niagara Falls,Great Blue Heron (Blue form),12,0.1534
+Niagara Falls,Black Vulture,16,0.2045
+Niagara Falls,Turkey Vulture,34,0.4345
+Niagara Falls,Sharp-shinned Hawk,2,0.0256
+Niagara Falls,Cooper's Hawk,12,0.1534
+Niagara Falls,Accipiter sp.,1,0.0128
+Niagara Falls,Bald Eagle,3,0.0383
+Niagara Falls,Red-tailed Hawk,38,0.4856
+Niagara Falls,Black-legged Kittiwake,1,0.0128
+Niagara Falls,Bonaparte's Gull,"4,393",56.1406
+Niagara Falls,Black-headed Gull,1,0.0128
+Niagara Falls,Little Gull,9,0.1150
+Niagara Falls,Ring-billed Gull,617,7.8850
+Niagara Falls,Herring Gull,"3,512",44.8818
+Niagara Falls,Iceland Gull,4,0.0511
+Niagara Falls,Lesser Black-backed Gull,1,0.0128
+Niagara Falls,Glaucous Gull,1,0.0128
+Niagara Falls,Great Black-backed Gull,65,0.8307
+Niagara Falls,gull sp.,13,0.1661
+Niagara Falls,Rock Pigeon (Feral Pigeon),361,4.6134
+Niagara Falls,Mourning Dove,182,2.3259
+Niagara Falls,Eastern Screech-Owl,4,0.0511
+Niagara Falls,Great Horned Owl,1,0.0128
+Niagara Falls,Snowy Owl,1,0.0128
+Niagara Falls,Long-eared Owl,1,0.0128
+Niagara Falls,Red-bellied Woodpecker,47,0.6006
+Niagara Falls,Downy Woodpecker,69,0.8818
+Niagara Falls,Hairy Woodpecker,8,0.1022
+Niagara Falls,Northern Flicker,32,0.4089
+Niagara Falls,American Kestrel,6,0.0767
+Niagara Falls,Merlin,2,0.0256
+Niagara Falls,Peregrine Falcon,1,0.0128
+Niagara Falls,Blue Jay,269,3.4377
+Niagara Falls,American Crow,88,1.1246
+Niagara Falls,Common Raven,3,0.0383
+Niagara Falls,Horned Lark,1,0.0128
+Niagara Falls,Black-capped Chickadee,170,2.1725
+Niagara Falls,Tufted Titmouse,2,0.0256
+Niagara Falls,Red-breasted Nuthatch,2,0.0256
+Niagara Falls,White-breasted Nuthatch,25,0.3195
+Niagara Falls,Brown Creeper,3,0.0383
+Niagara Falls,Winter Wren,4,0.0511
+Niagara Falls,Carolina Wren,41,0.5240
+Niagara Falls,Golden-crowned Kinglet,7,0.0895
+Niagara Falls,Eastern Bluebird,27,0.3450
+Niagara Falls,American Robin,397,5.0735
+Niagara Falls,Northern Mockingbird,7,0.0895
+Niagara Falls,European Starling,"18,078",231.0288
+Niagara Falls,Cedar Waxwing,70,0.8946
+Niagara Falls,Snow Bunting,1,0.0128
+Niagara Falls,Yellow-rumped Warbler (Myrtle),2,0.0256
+Niagara Falls,American Tree Sparrow,46,0.5879
+Niagara Falls,Dark-eyed Junco (Slate-colored),162,2.0703
+Niagara Falls,White-crowned Sparrow,3,0.0383
+Niagara Falls,White-throated Sparrow,30,0.3834
+Niagara Falls,Song Sparrow,17,0.2173
+Niagara Falls,Swamp Sparrow,1,0.0128
+Niagara Falls,Northern Cardinal,144,1.8403
+Niagara Falls,Red-winged Blackbird,1,0.0128
+Niagara Falls,House Finch,178,2.2748
+Niagara Falls,American Goldfinch,213,2.7220
+Niagara Falls,House Sparrow,753,9.6230
+Orillia,Canada Goose,52,0.9286
+Orillia,Trumpeter Swan,25,0.4464
+Orillia,American Black Duck,10,0.1786
+Orillia,Mallard,872,15.5714
+Orillia,Bufflehead,9,0.1607
+Orillia,Common Goldeneye,190,3.3929
+Orillia,Hooded Merganser,7,0.1250
+Orillia,Common Merganser,160,2.8571
+Orillia,duck sp.,36,0.6429
+Orillia,Ruffed Grouse,4,0.0714
+Orillia,Wild Turkey,156,2.7857
+Orillia,Great Blue Heron (Blue form),1,0.0179
+Orillia,Sharp-shinned Hawk,1,0.0179
+Orillia,Cooper's Hawk,1,0.0179
+Orillia,Accipiter sp.,1,0.0179
+Orillia,Bald Eagle,4,0.0714
+Orillia,Red-tailed Hawk,1,0.0179
+Orillia,Rough-legged Hawk,1,0.0179
+Orillia,Ring-billed Gull,31,0.5536
+Orillia,Herring Gull,851,15.1964
+Orillia,Iceland Gull,5,0.0893
+Orillia,Glaucous Gull,14,0.2500
+Orillia,Great Black-backed Gull,68,1.2143
+Orillia,gull sp.,31,0.5536
+Orillia,Rock Pigeon (Feral Pigeon),324,5.7857
+Orillia,Mourning Dove,114,2.0357
+Orillia,Eastern Screech-Owl,1,0.0179
+Orillia,Belted Kingfisher,2,0.0357
+Orillia,Red-bellied Woodpecker,6,0.1071
+Orillia,Downy Woodpecker,30,0.5357
+Orillia,Hairy Woodpecker,20,0.3571
+Orillia,Northern Flicker,1,0.0179
+Orillia,Pileated Woodpecker,9,0.1607
+Orillia,Northern Shrike,1,0.0179
+Orillia,Blue Jay,91,1.6250
+Orillia,American Crow,64,1.1429
+Orillia,Common Raven,7,0.1250
+Orillia,Black-capped Chickadee,337,6.0179
+Orillia,Red-breasted Nuthatch,11,0.1964
+Orillia,White-breasted Nuthatch,30,0.5357
+Orillia,Brown Creeper,4,0.0714
+Orillia,European Starling,209,3.7321
+Orillia,Cedar Waxwing,4,0.0714
+Orillia,American Tree Sparrow,19,0.3393
+Orillia,Dark-eyed Junco (Slate-colored),50,0.8929
+Orillia,White-throated Sparrow,1,0.0179
+Orillia,Song Sparrow,1,0.0179
+Orillia,Northern Cardinal,11,0.1964
+Orillia,House Finch,8,0.1429
+Orillia,Purple Finch,2,0.0357
+Orillia,American Goldfinch,69,1.2321
+Orillia,Evening Grosbeak,10,0.1786
+Orillia,House Sparrow,30,0.5357
+Richmond Hill,Canada Goose,582,8.7849
+Richmond Hill,Mute Swan,3,0.0453
+Richmond Hill,Trumpeter Swan,125,1.8868
+Richmond Hill,Wood Duck,2,0.0302
+Richmond Hill,American Black Duck,25,0.3774
+Richmond Hill,Mallard,826,12.4679
+Richmond Hill,Common Goldeneye,2,0.0302
+Richmond Hill,Hooded Merganser,1,0.0151
+Richmond Hill,Wild Turkey,37,0.5585
+Richmond Hill,Sharp-shinned Hawk,3,0.0453
+Richmond Hill,Cooper's Hawk,1,0.0151
+Richmond Hill,Red-tailed Hawk,12,0.1811
+Richmond Hill,Rough-legged Hawk,1,0.0151
+Richmond Hill,Ring-billed Gull,217,3.2755
+Richmond Hill,Herring Gull,16,0.2415
+Richmond Hill,gull sp.,26,0.3925
+Richmond Hill,Rock Pigeon (Feral Pigeon),396,5.9774
+Richmond Hill,Mourning Dove,202,3.0491
+Richmond Hill,Red-bellied Woodpecker,5,0.0755
+Richmond Hill,Downy Woodpecker,33,0.4981
+Richmond Hill,Hairy Woodpecker,15,0.2264
+Richmond Hill,Pileated Woodpecker,2,0.0302
+Richmond Hill,Blue Jay,66,0.9962
+Richmond Hill,American Crow,56,0.8453
+Richmond Hill,Common Raven,4,0.0604
+Richmond Hill,Black-capped Chickadee,366,5.5245
+Richmond Hill,Red-breasted Nuthatch,10,0.1509
+Richmond Hill,White-breasted Nuthatch,13,0.1962
+Richmond Hill,Brown Creeper,2,0.0302
+Richmond Hill,Golden-crowned Kinglet,1,0.0151
+Richmond Hill,Eastern Bluebird,5,0.0755
+Richmond Hill,American Robin,3,0.0453
+Richmond Hill,Northern Mockingbird,1,0.0151
+Richmond Hill,European Starling,"1,495",22.5660
+Richmond Hill,Cedar Waxwing,13,0.1962
+Richmond Hill,American Tree Sparrow,87,1.3132
+Richmond Hill,Dark-eyed Junco (Slate-colored),181,2.7321
+Richmond Hill,White-throated Sparrow,6,0.0906
+Richmond Hill,Song Sparrow,1,0.0151
+Richmond Hill,Northern Cardinal,85,1.2830
+Richmond Hill,Brown-headed Cowbird,17,0.2566
+Richmond Hill,House Finch,52,0.7849
+Richmond Hill,Purple Finch,2,0.0302
+Richmond Hill,Pine Siskin,2,0.0302
+Richmond Hill,American Goldfinch,154,2.3245
+Richmond Hill,House Sparrow,175,2.6415
+Point Pelee,Cackling Goose,2,0.0408
+Point Pelee,Canada Goose,"4,763",97.2041
+Point Pelee,Trumpeter Swan,2,0.0408
+Point Pelee,Tundra Swan,16,0.3265
+Point Pelee,Wood Duck,1,0.0204
+Point Pelee,Gadwall,5,0.1020
+Point Pelee,American Wigeon,1,0.0204
+Point Pelee,American Black Duck,1,0.0204
+Point Pelee,Mallard,415,8.4694
+Point Pelee,Green-winged Teal,1,0.0204
+Point Pelee,Canvasback,3,0.0612
+Point Pelee,Redhead,7,0.1429
+Point Pelee,Greater Scaup,"19,021",388.1837
+Point Pelee,Lesser Scaup,365,7.4490
+Point Pelee,Greater/Lesser Scaup,"2,000",40.8163
+Point Pelee,Surf Scoter,15,0.3061
+Point Pelee,White-winged Scoter,900,18.3673
+Point Pelee,Black Scoter,8,0.1633
+Point Pelee,Long-tailed Duck,12,0.2449
+Point Pelee,Bufflehead,23,0.4694
+Point Pelee,Common Goldeneye,735,15.0000
+Point Pelee,Hooded Merganser,7,0.1429
+Point Pelee,Common Merganser,"1,335",27.2449
+Point Pelee,Red-breasted Merganser,"4,140",84.4898
+Point Pelee,merganser sp.,63,1.2857
+Point Pelee,Ruddy Duck,6,0.1224
+Point Pelee,duck sp.,334,6.8163
+Point Pelee,Ring-necked Pheasant,1,0.0204
+Point Pelee,Wild Turkey,29,0.5918
+Point Pelee,Common Loon,2,0.0408
+Point Pelee,Horned Grebe,6,0.1224
+Point Pelee,Double-crested Cormorant,4,0.0816
+Point Pelee,Great Blue Heron (Blue form),28,0.5714
+Point Pelee,Turkey Vulture,1,0.0204
+Point Pelee,Northern Harrier,4,0.0816
+Point Pelee,Sharp-shinned Hawk,3,0.0612
+Point Pelee,Cooper's Hawk,7,0.1429
+Point Pelee,Northern Goshawk,1,0.0204
+Point Pelee,Bald Eagle,12,0.2449
+Point Pelee,Red-shouldered Hawk,4,0.0816
+Point Pelee,Red-tailed Hawk,24,0.4898
+Point Pelee,Rough-legged Hawk,1,0.0204
+Point Pelee,Sandhill Crane,46,0.9388
+Point Pelee,Killdeer,1,0.0204
+Point Pelee,Purple Sandpiper,2,0.0408
+Point Pelee,American Woodcock,1,0.0204
+Point Pelee,Bonaparte's Gull,623,12.7143
+Point Pelee,Ring-billed Gull,"2,259",46.1020
+Point Pelee,Herring Gull,635,12.9592
+Point Pelee,Lesser Black-backed Gull,2,0.0408
+Point Pelee,Glaucous Gull,4,0.0816
+Point Pelee,Great Black-backed Gull,41,0.8367
+Point Pelee,gull sp.,7,0.1429
+Point Pelee,Rock Pigeon (Feral Pigeon),136,2.7755
+Point Pelee,Mourning Dove,66,1.3469
+Point Pelee,Eastern Screech-Owl,16,0.3265
+Point Pelee,Great Horned Owl,11,0.2245
+Point Pelee,Belted Kingfisher,3,0.0612
+Point Pelee,Red-bellied Woodpecker,18,0.3673
+Point Pelee,Downy Woodpecker,75,1.5306
+Point Pelee,Northern Flicker,7,0.1429
+Point Pelee,American Kestrel,2,0.0408
+Point Pelee,Merlin,2,0.0408
+Point Pelee,Peregrine Falcon,1,0.0204
+Point Pelee,Eastern Phoebe,4,0.0816
+Point Pelee,Blue Jay,70,1.4286
+Point Pelee,American Crow,33,0.6735
+Point Pelee,Horned Lark,13,0.2653
+Point Pelee,Black-capped Chickadee,60,1.2245
+Point Pelee,Red-breasted Nuthatch,1,0.0204
+Point Pelee,White-breasted Nuthatch,16,0.3265
+Point Pelee,Brown Creeper,15,0.3061
+Point Pelee,Winter Wren,7,0.1429
+Point Pelee,Marsh Wren,1,0.0204
+Point Pelee,Carolina Wren,13,0.2653
+Point Pelee,Golden-crowned Kinglet,34,0.6939
+Point Pelee,Ruby-crowned Kinglet,9,0.1837
+Point Pelee,Hermit Thrush,2,0.0408
+Point Pelee,American Robin,9,0.1837
+Point Pelee,European Starling,"1,606",32.7755
+Point Pelee,American Pipit,3,0.0612
+Point Pelee,Cedar Waxwing,6,0.1224
+Point Pelee,Orange-crowned Warbler,1,0.0204
+Point Pelee,American Tree Sparrow,42,0.8571
+Point Pelee,Chipping Sparrow,8,0.1633
+Point Pelee,Dark-eyed Junco,69,1.4082
+Point Pelee,White-crowned Sparrow,12,0.2449
+Point Pelee,White-throated Sparrow,13,0.2653
+Point Pelee,Song Sparrow,25,0.5102
+Point Pelee,Swamp Sparrow,9,0.1837
+Point Pelee,sparrow sp.,7,0.1429
+Point Pelee,Northern Cardinal,140,2.8571
+Point Pelee,Red-winged Blackbird,266,5.4286
+Point Pelee,Eastern Meadowlark,2,0.0408
+Point Pelee,Common Grackle,1,0.0204
+Point Pelee,Brown-headed Cowbird,46,0.9388
+Point Pelee,House Finch,39,0.7959
+Point Pelee,Pine Siskin,4,0.0816
+Point Pelee,American Goldfinch,45,0.9184
+Point Pelee,House Sparrow,"1,493",30.4694
+Stratford,Canada Goose,"3,300",61.9137
+Stratford,Mute Swan,4,0.0750
+Stratford,American Black Duck,12,0.2251
+Stratford,Mallard,680,12.7580
+Stratford,Wild Turkey,47,0.8818
+Stratford,Great Blue Heron (Blue form),1,0.0188
+Stratford,Turkey Vulture,14,0.2627
+Stratford,Northern Harrier,5,0.0938
+Stratford,Cooper's Hawk,7,0.1313
+Stratford,Bald Eagle,10,0.1876
+Stratford,Red-tailed Hawk,70,1.3133
+Stratford,Rough-legged Hawk,16,0.3002
+Stratford,Ring-billed Gull,16,0.3002
+Stratford,Herring Gull,124,2.3265
+Stratford,Rock Pigeon (Feral Pigeon),455,8.5366
+Stratford,Mourning Dove,120,2.2514
+Stratford,Eastern Screech-Owl,1,0.0188
+Stratford,Great Horned Owl,1,0.0188
+Stratford,Belted Kingfisher,5,0.0938
+Stratford,Red-bellied Woodpecker,16,0.3002
+Stratford,Downy Woodpecker,43,0.8068
+Stratford,Hairy Woodpecker,4,0.0750
+Stratford,Northern Flicker,3,0.0563
+Stratford,Pileated Woodpecker,1,0.0188
+Stratford,American Kestrel,2,0.0375
+Stratford,Merlin,2,0.0375
+Stratford,Blue Jay,180,3.3771
+Stratford,American Crow,"2,298",43.1144
+Stratford,Common Raven,1,0.0188
+Stratford,Black-capped Chickadee,320,6.0038
+Stratford,Red-breasted Nuthatch,11,0.2064
+Stratford,White-breasted Nuthatch,27,0.5066
+Stratford,Brown Creeper,4,0.0750
+Stratford,Winter Wren,1,0.0188
+Stratford,Golden-crowned Kinglet,4,0.0750
+Stratford,American Robin,17,0.3189
+Stratford,European Starling,"2,809",52.7017
+Stratford,Cedar Waxwing,3,0.0563
+Stratford,Snow Bunting,8,0.1501
+Stratford,American Tree Sparrow,30,0.5629
+Stratford,Dark-eyed Junco (Slate-colored),223,4.1839
+Stratford,Eastern Towhee,1,0.0188
+Stratford,Northern Cardinal,51,0.9568
+Stratford,House Finch,20,0.3752
+Stratford,American Goldfinch,151,2.8330
+Stratford,House Sparrow,267,5.0094
+Thousand Islands,Canada Goose,501,10.9868
+Thousand Islands,Mute Swan,87,1.9079
+Thousand Islands,Wood Duck,2,0.0439
+Thousand Islands,American Black Duck,5,0.1096
+Thousand Islands,Mallard,116,2.5439
+Thousand Islands,Lesser Scaup,16,0.3509
+Thousand Islands,White-winged Scoter,3,0.0658
+Thousand Islands,Long-tailed Duck,2,0.0439
+Thousand Islands,Bufflehead,19,0.4167
+Thousand Islands,Common Goldeneye,597,13.0921
+Thousand Islands,Common Merganser,448,9.8246
+Thousand Islands,Red-breasted Merganser,121,2.6535
+Thousand Islands,duck sp.,470,10.3070
+Thousand Islands,Ruffed Grouse,3,0.0658
+Thousand Islands,Wild Turkey,135,2.9605
+Thousand Islands,Horned Grebe,1,0.0219
+Thousand Islands,Cooper's Hawk,1,0.0219
+Thousand Islands,Bald Eagle,18,0.3947
+Thousand Islands,Red-tailed Hawk,18,0.3947
+Thousand Islands,Rough-legged Hawk,8,0.1754
+Thousand Islands,Ring-billed Gull,23,0.5044
+Thousand Islands,Herring Gull,80,1.7544
+Thousand Islands,Great Black-backed Gull,2,0.0439
+Thousand Islands,gull sp.,112,2.4561
+Thousand Islands,Rock Pigeon (Feral Pigeon),189,4.1447
+Thousand Islands,Mourning Dove,130,2.8509
+Thousand Islands,Barred Owl,1,0.0219
+Thousand Islands,Belted Kingfisher,1,0.0219
+Thousand Islands,Red-bellied Woodpecker,18,0.3947
+Thousand Islands,Downy Woodpecker,59,1.2939
+Thousand Islands,Hairy Woodpecker,29,0.6360
+Thousand Islands,Northern Flicker,1,0.0219
+Thousand Islands,Pileated Woodpecker,2,0.0439
+Thousand Islands,American Kestrel,2,0.0439
+Thousand Islands,Northern Shrike,1,0.0219
+Thousand Islands,Blue Jay,293,6.4254
+Thousand Islands,American Crow,54,1.1842
+Thousand Islands,Common Raven,53,1.1623
+Thousand Islands,Horned Lark,10,0.2193
+Thousand Islands,Black-capped Chickadee,422,9.2544
+Thousand Islands,Tufted Titmouse,1,0.0219
+Thousand Islands,Red-breasted Nuthatch,1,0.0219
+Thousand Islands,White-breasted Nuthatch,67,1.4693
+Thousand Islands,Brown Creeper,14,0.3070
+Thousand Islands,Golden-crowned Kinglet,2,0.0439
+Thousand Islands,Eastern Bluebird,5,0.1096
+Thousand Islands,American Robin,10,0.2193
+Thousand Islands,Gray Catbird,1,0.0219
+Thousand Islands,European Starling,329,7.2149
+Thousand Islands,Cedar Waxwing,321,7.0395
+Thousand Islands,American Tree Sparrow,216,4.7368
+Thousand Islands,Dark-eyed Junco,232,5.0877
+Thousand Islands,White-throated Sparrow,3,0.0658
+Thousand Islands,Song Sparrow,4,0.0877
+Thousand Islands,Northern Cardinal,30,0.6579
+Thousand Islands,House Finch,10,0.2193
+Thousand Islands,American Goldfinch,66,1.4474
+Thousand Islands,House Sparrow,144,3.1579
+Sandbanks,Cackling Goose,2,0.0338
+Sandbanks,Canada Goose,"3,453",58.2785
+Sandbanks,Mute Swan,186,3.1392
+Sandbanks,Trumpeter Swan,12,0.2025
+Sandbanks,Tundra Swan,4,0.0675
+Sandbanks,American Black Duck,59,0.9958
+Sandbanks,Mallard,179,3.0211
+Sandbanks,Northern Pintail,2,0.0338
+Sandbanks,Greater Scaup,9,0.1519
+Sandbanks,Surf Scoter,1,0.0169
+Sandbanks,White-winged Scoter,57,0.9620
+Sandbanks,Long-tailed Duck,"1,080",18.2278
+Sandbanks,Bufflehead,53,0.8945
+Sandbanks,Common Goldeneye,449,7.5781
+Sandbanks,Hooded Merganser,3,0.0506
+Sandbanks,Common Merganser,460,7.7637
+Sandbanks,Red-breasted Merganser,96,1.6203
+Sandbanks,Ruffed Grouse,14,0.2363
+Sandbanks,Wild Turkey,3,0.0506
+Sandbanks,Red-necked Grebe,1,0.0169
+Sandbanks,Sharp-shinned Hawk,1,0.0169
+Sandbanks,Cooper's Hawk,4,0.0675
+Sandbanks,Bald Eagle,7,0.1181
+Sandbanks,Red-tailed Hawk,4,0.0675
+Sandbanks,Purple Sandpiper,1,0.0169
+Sandbanks,Bonaparte's Gull,1,0.0169
+Sandbanks,Ring-billed Gull,59,0.9958
+Sandbanks,Herring Gull,104,1.7553
+Sandbanks,Great Black-backed Gull,7,0.1181
+Sandbanks,Rock Pigeon (Feral Pigeon),126,2.1266
+Sandbanks,Mourning Dove,428,7.2236
+Sandbanks,Eastern Screech-Owl,6,0.1013
+Sandbanks,Great Horned Owl,2,0.0338
+Sandbanks,Barred Owl,2,0.0338
+Sandbanks,Long-eared Owl,1,0.0169
+Sandbanks,Belted Kingfisher,1,0.0169
+Sandbanks,Red-bellied Woodpecker,17,0.2869
+Sandbanks,Yellow-bellied Sapsucker,1,0.0169
+Sandbanks,Downy Woodpecker,40,0.6751
+Sandbanks,Hairy Woodpecker,27,0.4557
+Sandbanks,Northern Flicker,2,0.0338
+Sandbanks,Pileated Woodpecker,7,0.1181
+Sandbanks,American Kestrel,2,0.0338
+Sandbanks,Northern Shrike,3,0.0506
+Sandbanks,Blue Jay,262,4.4219
+Sandbanks,American Crow,82,1.3840
+Sandbanks,Common Raven,15,0.2532
+Sandbanks,Horned Lark,5,0.0844
+Sandbanks,Black-capped Chickadee,377,6.3629
+Sandbanks,White-breasted Nuthatch,41,0.6920
+Sandbanks,Brown Creeper,5,0.0844
+Sandbanks,Winter Wren,1,0.0169
+Sandbanks,Golden-crowned Kinglet,13,0.2194
+Sandbanks,Eastern Bluebird,7,0.1181
+Sandbanks,Townsend's Solitaire,1,0.0169
+Sandbanks,Hermit Thrush,1,0.0169
+Sandbanks,American Robin,424,7.1561
+Sandbanks,Northern Mockingbird,1,0.0169
+Sandbanks,European Starling,512,8.6414
+Sandbanks,Cedar Waxwing,205,3.4599
+Sandbanks,longspur sp.,1,0.0169
+Sandbanks,Snow Bunting,3,0.0506
+Sandbanks,Yellow-rumped Warbler,2,0.0338
+Sandbanks,American Tree Sparrow,125,2.1097
+Sandbanks,Dark-eyed Junco,219,3.6962
+Sandbanks,White-crowned Sparrow,1,0.0169
+Sandbanks,White-throated Sparrow,3,0.0506
+Sandbanks,Song Sparrow,3,0.0506
+Sandbanks,Northern Cardinal,24,0.4051
+Sandbanks,Red-winged Blackbird,9,0.1519
+Sandbanks,Common Grackle,3,0.0506
+Sandbanks,Brown-headed Cowbird,27,0.4557
+Sandbanks,House Finch,72,1.2152
+Sandbanks,American Goldfinch,81,1.3671
+Sandbanks,House Sparrow,77,1.2996
+St. Catherines,Canada Goose,"4,624",43.6226
+St. Catherines,Mute Swan,9,0.0849
+St. Catherines,Trumpeter Swan,15,0.1415
+St. Catherines,Tundra Swan,10,0.0943
+St. Catherines,Trumpeter/Tundra Swan,6,0.0566
+St. Catherines,American Black Duck,22,0.2075
+St. Catherines,Mallard,376,3.5472
+St. Catherines,Canvasback,8,0.0755
+St. Catherines,Redhead,14,0.1321
+St. Catherines,Ring-necked Duck,28,0.2642
+St. Catherines,Greater Scaup,9,0.0849
+St. Catherines,Lesser Scaup,1,0.0094
+St. Catherines,White-winged Scoter,16,0.1509
+St. Catherines,Long-tailed Duck,65,0.6132
+St. Catherines,Bufflehead,29,0.2736
+St. Catherines,Common Goldeneye,60,0.5660
+St. Catherines,Hooded Merganser,53,0.5000
+St. Catherines,Common Merganser,154,1.4528
+St. Catherines,Red-breasted Merganser,501,4.7264
+St. Catherines,duck sp.,14,0.1321
+St. Catherines,Wild Turkey,50,0.4717
+St. Catherines,Common Loon,4,0.0377
+St. Catherines,Pied-billed Grebe,1,0.0094
+St. Catherines,Red-necked Grebe,1,0.0094
+St. Catherines,Double-crested Cormorant,45,0.4245
+St. Catherines,Great Blue Heron (Blue form),8,0.0755
+St. Catherines,Northern Harrier,2,0.0189
+St. Catherines,Sharp-shinned Hawk,7,0.0660
+St. Catherines,Cooper's Hawk,10,0.0943
+St. Catherines,Bald Eagle,8,0.0755
+St. Catherines,Red-tailed Hawk,110,1.0377
+St. Catherines,Rough-legged Hawk,2,0.0189
+St. Catherines,American Coot,1,0.0094
+St. Catherines,Bonaparte's Gull,1,0.0094
+St. Catherines,Ring-billed Gull,471,4.4434
+St. Catherines,Herring Gull,165,1.5566
+St. Catherines,Lesser Black-backed Gull,1,0.0094
+St. Catherines,Great Black-backed Gull,7,0.0660
+St. Catherines,gull sp.,79,0.7453
+St. Catherines,Rock Pigeon (Feral Pigeon),619,5.8396
+St. Catherines,Mourning Dove,409,3.8585
+St. Catherines,Eastern Screech-Owl,6,0.0566
+St. Catherines,Great Horned Owl,3,0.0283
+St. Catherines,Snowy Owl,1,0.0094
+St. Catherines,Belted Kingfisher,5,0.0472
+St. Catherines,Red-bellied Woodpecker,58,0.5472
+St. Catherines,Downy Woodpecker,56,0.5283
+St. Catherines,Hairy Woodpecker,12,0.1132
+St. Catherines,Northern Flicker,30,0.2830
+St. Catherines,American Kestrel,24,0.2264
+St. Catherines,Merlin,1,0.0094
+St. Catherines,Northern Shrike,1,0.0094
+St. Catherines,Blue Jay,371,3.5000
+St. Catherines,American Crow,57,0.5377
+St. Catherines,Common Raven,4,0.0377
+St. Catherines,Horned Lark,53,0.5000
+St. Catherines,Black-capped Chickadee,169,1.5943
+St. Catherines,Tufted Titmouse,3,0.0283
+St. Catherines,Red-breasted Nuthatch,2,0.0189
+St. Catherines,White-breasted Nuthatch,28,0.2642
+St. Catherines,Brown Creeper,1,0.0094
+St. Catherines,Carolina Wren,29,0.2736
+St. Catherines,Golden-crowned Kinglet,4,0.0377
+St. Catherines,Ruby-crowned Kinglet,1,0.0094
+St. Catherines,Eastern Bluebird,76,0.7170
+St. Catherines,American Robin,393,3.7075
+St. Catherines,Northern Mockingbird,12,0.1132
+St. Catherines,European Starling,"5,854",55.2264
+St. Catherines,Cedar Waxwing,136,1.2830
+St. Catherines,Yellow-rumped Warbler (Myrtle),9,0.0849
+St. Catherines,American Tree Sparrow,81,0.7642
+St. Catherines,Chipping Sparrow,2,0.0189
+St. Catherines,Dark-eyed Junco,362,3.4151
+St. Catherines,White-crowned Sparrow,42,0.3962
+St. Catherines,White-throated Sparrow,31,0.2925
+St. Catherines,Song Sparrow,2,0.0189
+St. Catherines,Northern Cardinal,223,2.1038
+St. Catherines,Red-winged Blackbird,5,0.0472
+St. Catherines,Brown-headed Cowbird,23,0.2170
+St. Catherines,House Finch,248,2.3396
+St. Catherines,American Goldfinch,388,3.6604
+St. Catherines,House Sparrow,"1,137",10.7264
