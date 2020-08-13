@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.8.11)  12 AUG 2020 20:01
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.8.11)  13 AUG 2020 11:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1157,10 +1157,10 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 676.
  ) 
 Here is how much of TeX's memory you used:
- 17016 strings out of 481691
- 299262 string characters out of 5933311
+ 17022 strings out of 481691
+ 299346 string characters out of 5933311
  731031 words of memory out of 5000000
- 33890 multiletter control sequences out of 15000+600000
+ 33896 multiletter control sequences out of 15000+600000
  541515 words of font info for 79 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  52i,6n,118p,1728b,439s stack positions out of 5000i,500n,10000p,200000b,80000s

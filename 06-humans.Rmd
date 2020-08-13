@@ -1,4 +1,5 @@
 # Human data{#humans}  
 ![](./humans.png){width=4in}  
 
-Data associated with humans. Fitbit steps and sleep.  
+Data associated with human life. The [quantified self](https://quantifiedself.com) movement is a powerful (and moving) example of personal science and experimental design thinking. It is an experiment of one with trial and error and pre-post intervention thinking. Numerous trackers including smartwatches, phones, dedicated movement trackers such as Fitbits track steps, sleep, heart rate, and numerous other potential indicators of some components of life though big data [@RN6807]. This is an opportunity to apply experimental designcraft to yourself and use these experiments to make evidence-informed decisions about exercise, sleep, and work patterns. Gamification is not so different from experimentation in this context and a compelling opportunity to have some fun with activities that you are already doing [@RN6808].   
+
