@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.8.11)  13 AUG 2020 11:02
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.8.11)  13 AUG 2020 11:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -406,6 +406,18 @@ LaTeX Warning: Label `data' multiply defined.
 
 
 LaTeX Warning: Label `meta-data' multiply defined.
+
+
+LaTeX Warning: Label `deeper-dive' multiply defined.
+
+
+LaTeX Warning: Label `learning-outcomes' multiply defined.
+
+
+LaTeX Warning: Label `steps' multiply defined.
+
+
+LaTeX Warning: Label `data' multiply defined.
 
 
 LaTeX Warning: Label `deeper-dive' multiply defined.
@@ -1093,32 +1105,70 @@ File: ./gbif.png Graphic file (type bmp)
 Chapter 7.
 File: ./humans.png Graphic file (type bmp)
 <./humans.png>
-[29] [30
+
+Underfull \hbox (badness 10000) in paragraph at lines 501--503
+
+ []
+
+
+Underfull \vbox (badness 4353) has occurred while \output is active []
+
+[29]
+Underfull \hbox (badness 10000) in paragraph at lines 503--505
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 505--507
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 507--509
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 520--522
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 522--524
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 526--528
+
+ []
+
+[30]
+Chapter 8.
+[31
 
 ]
-Chapter 8.
-[31]
-Overfull \hbox (34.62007pt too wide) in paragraph at lines 523--540
+Overfull \hbox (34.62007pt too wide) in paragraph at lines 573--590
 [][] 
  []
 
 
-Overfull \hbox (102.16006pt too wide) in paragraph at lines 547--558
+Overfull \hbox (102.16006pt too wide) in paragraph at lines 597--608
 [][] 
  []
 
 [32]
-Overfull \hbox (149.23009pt too wide) in paragraph at lines 565--576
+Overfull \hbox (149.23009pt too wide) in paragraph at lines 615--626
 [][] 
  []
 
 
-Overfull \hbox (41.17007pt too wide) in paragraph at lines 583--600
+Overfull \hbox (41.17007pt too wide) in paragraph at lines 633--650
 [][] 
  []
 
 
-Overfull \hbox (201.60007pt too wide) in paragraph at lines 609--624
+Overfull \hbox (201.60007pt too wide) in paragraph at lines 659--674
 [][] 
  []
 
@@ -1126,12 +1176,12 @@ Overfull \hbox (201.60007pt too wide) in paragraph at lines 609--624
 Underfull \vbox (badness 1796) has occurred while \output is active []
 
 [33]
-Overfull \hbox (41.17007pt too wide) in paragraph at lines 631--648
+Overfull \hbox (41.17007pt too wide) in paragraph at lines 681--698
 [][] 
  []
 
 
-Overfull \hbox (117.64008pt too wide) in paragraph at lines 657--668
+Overfull \hbox (117.64008pt too wide) in paragraph at lines 707--718
 [][] 
  []
 
@@ -1142,19 +1192,19 @@ Chapter 9.
 ] [36
 
 ] [37])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 676.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 726.
 [38]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 676.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 726.
 (./designcraft4experiments.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 676.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 676.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 726.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 726.
 Package rerunfilecheck Info: File `designcraft4experiments.out' has not changed
 .
 (rerunfilecheck)             Checksum: 369DB102CA3CAE659CB7BAB60674CB1E;973.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 676.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 726.
  ) 
 Here is how much of TeX's memory you used:
  17022 strings out of 481691
