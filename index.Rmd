@@ -37,6 +37,14 @@ Both report formats supported by [FACETS](https://www.facetsjournal.com/about/).
 9. Write up the field experiment you completed for the deeper dive as a research article for the Canadian open science journal [Facets](https://www.facetsjournal.com/authors/instructions/).  
 10. Submit paper to teaching assistant via [turnitin.com](https://www.turnitin.com).  
 
+#### Field experiments gear {-}  
+```{r, warning=FALSE, message=FALSE, echo=FALSE}
+library(tidyverse)
+field_gear <- read_csv("./field.csv")
+knitr::kable(field_gear, booktabs = TRUE)
+
+```
+
 #### Workflow for the data-design lab report {-}
 1. Explore each dataset.  
 2. Plan a variable to structure your design and analysis.  
@@ -44,10 +52,13 @@ Both report formats supported by [FACETS](https://www.facetsjournal.com/about/).
 4. Write a short research 'note' format paper suitable for publication in [Facets journal](https://www.facetsjournal.com/authors/instructions/).  
 5. Submit paper to teaching assistant via [turnitin.com](https://www.turnitin.com).  
 
-#### Field experiments gear and prep {-}
+#### Data-design experiments gear {-}
+```{r, warning=FALSE, message=FALSE, echo=FALSE}
+library(tidyverse)
+data_gear <- read_csv("./data_design_labs.csv")
+knitr::kable(data_gear, booktabs = TRUE)
 
-#### Data-design experiment prerequisites {-}
-
+```
 
 
 

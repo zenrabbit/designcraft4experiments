@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.8.11)  12 AUG 2020 15:10
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.8.11)  12 AUG 2020 20:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -812,27 +812,53 @@ Underfull \hbox (badness 10000) in paragraph at lines 128--130
 
  []
 
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 7.0pt on input line 137.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 5.0pt on input line 137.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 10.00092pt on input line 137.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 7.00064pt on input line 137.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 5.00046pt on input line 137.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 9.99893pt on input line 137.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 6.99925pt on input line 137.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 4.99947pt on input line 137.
 
-Underfull \hbox (badness 10000) in paragraph at lines 141--143
-
+Overfull \hbox (319.64008pt too wide) in paragraph at lines 137--154
+[] 
  []
 
 
 Underfull \vbox (badness 2277) has occurred while \output is active []
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 143--145
+Underfull \hbox (badness 10000) in paragraph at lines 163--165
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 145--147
+Underfull \hbox (badness 10000) in paragraph at lines 165--167
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 147--149
+Underfull \hbox (badness 10000) in paragraph at lines 167--169
 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--171
+
+ []
+
+
+Overfull \hbox (227.59007pt too wide) in paragraph at lines 178--192
+[] 
  []
 
 [7] [8
@@ -848,84 +874,68 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (13.46645pt too high) has occurred while \output is active []
 
 [10]
-Underfull \hbox (badness 10000) in paragraph at lines 174--176
+Underfull \hbox (badness 10000) in paragraph at lines 207--209
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 176--178
+Underfull \hbox (badness 10000) in paragraph at lines 209--211
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 178--180
+Underfull \hbox (badness 10000) in paragraph at lines 211--213
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 180--182
+Underfull \hbox (badness 10000) in paragraph at lines 213--215
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 193--195
+Underfull \hbox (badness 10000) in paragraph at lines 226--228
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 195--197
+Underfull \hbox (badness 10000) in paragraph at lines 228--230
 
  []
 
 
-Underfull \hbox (badness 1024) in paragraph at lines 197--199
+Underfull \hbox (badness 1024) in paragraph at lines 230--232
 \TU/lmr/m/n/10 are considerable merits to observing birds more simply ([]Wilkin
 son
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 197--199
+Underfull \hbox (badness 10000) in paragraph at lines 230--232
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 199--201
+Underfull \hbox (badness 10000) in paragraph at lines 232--234
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 201--203
+Underfull \hbox (badness 10000) in paragraph at lines 234--236
 
  []
 
 [11]
-Underfull \hbox (badness 10000) in paragraph at lines 218--220
+Underfull \hbox (badness 10000) in paragraph at lines 251--253
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 220--222
+Underfull \hbox (badness 10000) in paragraph at lines 253--255
 
  []
 
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.0pt on input line 230.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.0pt on input line 230.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.00092pt on input line 230.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.00064pt on input line 230.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.00046pt on input line 230.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 9.99893pt on input line 230.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 6.99925pt on input line 230.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 4.99947pt on input line 230.
 
-Overfull \hbox (202.9801pt too wide) in paragraph at lines 230--250
+Overfull \hbox (202.9801pt too wide) in paragraph at lines 263--283
 [][] 
  []
 
@@ -939,42 +949,42 @@ Chapter 3.
 File: ./insects.png Graphic file (type bmp)
 <./insects.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 278--280
+Underfull \hbox (badness 10000) in paragraph at lines 311--313
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 280--282
+Underfull \hbox (badness 10000) in paragraph at lines 313--315
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 282--284
+Underfull \hbox (badness 10000) in paragraph at lines 315--317
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 284--286
+Underfull \hbox (badness 10000) in paragraph at lines 317--319
 
  []
 
 [15]
-Underfull \hbox (badness 10000) in paragraph at lines 297--299
+Underfull \hbox (badness 10000) in paragraph at lines 330--332
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 299--301
+Underfull \hbox (badness 10000) in paragraph at lines 332--334
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 301--303
+Underfull \hbox (badness 10000) in paragraph at lines 334--336
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 303--305
+Underfull \hbox (badness 10000) in paragraph at lines 336--338
 
  []
 
@@ -991,42 +1001,42 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (58.93379pt too high) has occurred while \output is active []
 
 [20]
-Underfull \hbox (badness 10000) in paragraph at lines 341--343
+Underfull \hbox (badness 10000) in paragraph at lines 374--376
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 343--345
+Underfull \hbox (badness 10000) in paragraph at lines 376--378
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 345--347
+Underfull \hbox (badness 10000) in paragraph at lines 378--380
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 347--349
+Underfull \hbox (badness 10000) in paragraph at lines 380--382
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 360--362
+Underfull \hbox (badness 10000) in paragraph at lines 393--395
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 362--364
+Underfull \hbox (badness 10000) in paragraph at lines 395--397
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 364--366
+Underfull \hbox (badness 10000) in paragraph at lines 397--399
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 366--368
+Underfull \hbox (badness 10000) in paragraph at lines 399--401
 
  []
 
@@ -1037,37 +1047,37 @@ File: ./magic.png Graphic file (type bmp)
 [23
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 404--406
+Underfull \hbox (badness 10000) in paragraph at lines 437--439
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 406--408
+Underfull \hbox (badness 10000) in paragraph at lines 439--441
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 408--410
+Underfull \hbox (badness 10000) in paragraph at lines 441--443
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 410--412
+Underfull \hbox (badness 10000) in paragraph at lines 443--445
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 423--425
+Underfull \hbox (badness 10000) in paragraph at lines 456--458
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 425--427
+Underfull \hbox (badness 10000) in paragraph at lines 458--460
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 429--431
+Underfull \hbox (badness 10000) in paragraph at lines 462--464
 
  []
 
@@ -1088,27 +1098,27 @@ File: ./humans.png Graphic file (type bmp)
 ]
 Chapter 8.
 [31]
-Overfull \hbox (34.62007pt too wide) in paragraph at lines 490--507
+Overfull \hbox (34.62007pt too wide) in paragraph at lines 523--540
 [][] 
  []
 
 
-Overfull \hbox (102.16006pt too wide) in paragraph at lines 514--525
+Overfull \hbox (102.16006pt too wide) in paragraph at lines 547--558
 [][] 
  []
 
 [32]
-Overfull \hbox (149.23009pt too wide) in paragraph at lines 532--543
+Overfull \hbox (149.23009pt too wide) in paragraph at lines 565--576
 [][] 
  []
 
 
-Overfull \hbox (41.17007pt too wide) in paragraph at lines 550--567
+Overfull \hbox (41.17007pt too wide) in paragraph at lines 583--600
 [][] 
  []
 
 
-Overfull \hbox (201.60007pt too wide) in paragraph at lines 576--591
+Overfull \hbox (201.60007pt too wide) in paragraph at lines 609--624
 [][] 
  []
 
@@ -1116,12 +1126,12 @@ Overfull \hbox (201.60007pt too wide) in paragraph at lines 576--591
 Underfull \vbox (badness 1796) has occurred while \output is active []
 
 [33]
-Overfull \hbox (41.17007pt too wide) in paragraph at lines 598--615
+Overfull \hbox (41.17007pt too wide) in paragraph at lines 631--648
 [][] 
  []
 
 
-Overfull \hbox (117.64008pt too wide) in paragraph at lines 624--635
+Overfull \hbox (117.64008pt too wide) in paragraph at lines 657--668
 [][] 
  []
 
@@ -1132,23 +1142,23 @@ Chapter 9.
 ] [36
 
 ] [37])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 643.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 676.
 [38]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 643.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 676.
 (./designcraft4experiments.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 643.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 643.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 676.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 676.
 Package rerunfilecheck Info: File `designcraft4experiments.out' has not changed
 .
 (rerunfilecheck)             Checksum: 369DB102CA3CAE659CB7BAB60674CB1E;973.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 643.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 676.
  ) 
 Here is how much of TeX's memory you used:
  17016 strings out of 481691
- 299279 string characters out of 5933311
+ 299262 string characters out of 5933311
  731031 words of memory out of 5000000
  33890 multiletter control sequences out of 15000+600000
  541515 words of font info for 79 fonts, out of 8000000 for 9000
