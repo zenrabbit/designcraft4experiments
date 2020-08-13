@@ -1,4 +1,24 @@
 # Diversity data{#diversity}
 ![](./gbif.png){width=4in}  
 
-Diversity data from ebird or any citizen science project.
+Diversity data from any citizen science project are profound resources for scientists, non-profits, individuals, managers, and stakeholders. Citizen science is a tool for conservation, data collection, and also policy [@RN1320; @RN5997]. However, innovation through experimental design is not a component of many projects to date. The bioblitz model is common. We are citizens too as instructors and students, and we interact with a semi-natural, heterogeneous space when we can - campuses. There are at least two examples of data for campuses that can support and enable experimental design thinking. First, the trees on a campus are a viable ecological asset. Second, the biodiversity present on a campus - in addition to human animals.    
+
+#### Learning outcomes {-}  
+1. Work with an existing dataset and reuse it.  
+2. Design questions from data about a university campuses.  
+3. Connect principles of experimental design to implementation with data.  
+4. Write a clear hypothesis and predictions to explain or predict patterns in data.  
+5. Communicate data, design, and science succinctly.  
+
+#### Steps {-}  
+1. Download the dataset.  
+2. Read the meta-data.  
+3. Explore research on trees or biodiversity, and prep a list of questions for the data.
+4. Test one question with the data via a plot and a statistical test.  
+5. Decide if this is the dataset for you to write up as short research note.  
+
+#### Data {-}  
+[Here](https://knb.ecoinformatics.org/view/doi%3A10.5063%2FF1CN728G) are the data collected by ecology students at York University and the University of Toronto Mississauga. [Here](https://knb.ecoinformatics.org/view/doi%3A10.5063%2FF13F4MZC) are data for thousands of trees on York University, Keele Campus by a master gardener a number of years ago. In this both instances, click on the csv file to access the data but review the detailed meta-data to support reuse.   
+
+#### Deeper dive {-}
+If you choose this adventure, your goal is to explore any component of the data to apply design principles. In these examples, the design can include contrasts between different campuses or exploration of variation within a campus in terms of habitats. Do some work, some thinking, try some designs with the data, and make the call if this is data-design lab you will write up.  
