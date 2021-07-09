@@ -4,8 +4,8 @@
 %
 \documentclass[
 ]{book}
+\usepackage{amsmath,amssymb}
 \usepackage{lmodern}
-\usepackage{amssymb,amsmath}
 \usepackage{ifxetex,ifluatex}
 \ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
   \usepackage[T1]{fontenc}
@@ -41,7 +41,8 @@
   hidelinks,
   pdfcreator={LaTeX via pandoc}}
 \urlstyle{same} % disable monospaced font for URLs
-\usepackage{longtable,booktabs}
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
 % Correct order of tables after \paragraph or \subparagraph
 \usepackage{etoolbox}
 \makeatletter
@@ -50,7 +51,7 @@
 % Allow footnotes in longtable head/foot
 \IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
 \makesavenoteenv{longtable}
-\usepackage{graphicx,grffile}
+\usepackage{graphicx}
 \makeatletter
 \def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
 \def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
@@ -68,12 +69,15 @@
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 \setcounter{secnumdepth}{5}
 \usepackage{booktabs}
+\ifluatex
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
 \usepackage[]{natbib}
 \bibliographystyle{apalike}
 
 \title{Designcraft for experiments}
 \author{cjlortie}
-\date{2020-08-17}
+\date{}
 
 \begin{document}
 \maketitle
@@ -101,33 +105,29 @@ Life is an experiment. Individually and collectively. We experiment everyday. Th
 
 Both report formats supported by \href{https://www.facetsjournal.com/about/}{FACETS}. It is the first and only open access science journal in Canada.
 
-\hypertarget{workflow-for-pilot-and-field-experiment}{%
-\subsubsection*{Workflow for pilot and field experiment}\label{workflow-for-pilot-and-field-experiment}}
-\addcontentsline{toc}{subsubsection}{Workflow for pilot and field experiment}
+\hypertarget{part-1.-workflow-for-pilot-and-field-experiment}{%
+\subsubsection*{Part 1. Workflow for pilot and field experiment}\label{part-1.-workflow-for-pilot-and-field-experiment}}
+\addcontentsline{toc}{subsubsection}{Part 1. Workflow for pilot and field experiment}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  Do all three field experiments in brief, pilot only, try each for a few hours each.
+  Do all three field experiments in brief, pilot only, try each for a few hours.\\
 \item
-  Then, Select one of the first three field experiments to publish data with meta-data.\\
+  Then, select one of the first three field experiments.\\
 \item
-  Publish your data with meta-data to an open and public data repository such as \href{https://figshare.com}{figshare}.\\
+  Do a deeper dive with your choice, i.e.~fuller experiment wherein you structure observation by a key variable in the environment. Keep it observational.\\
 \item
-  Share the link with all the files with the teaching assistment via the course turnitin.com platform.\\
-\item
-  Select one of the three field experiments to do a deeper dive, i.e.~fuller experiment wherein you structure observation by a key variable in the environment.\\
-\item
-  Design experiment, collect data for the deeper dive.\\
+  Design the experiment; collect the field data.\\
 \item
   Consider combining data from other students that examined the same system.
 \item
-  Publish data with meta-data to \href{https://figshare.com}{figshare} and submit to teaching assistant via \href{https://www.turnitin.com}{turnitin.com}.\\
+  Publish your final field data with meta-data to \href{https://figshare.com}{figshare} and also submit to teaching assistant via \href{https://www.turnitin.com}{turnitin.com}. Ensure you include the link to the figshare data in the pdf of work you submit to teaching assistant.\\
 \item
-  Write up the field experiment you completed for the deeper dive as a research article for the Canadian open science journal \href{https://www.facetsjournal.com/authors/instructions/}{Facets}.\\
+  Write up the field experiment you completed for the deeper dive as a research article for the Canadian open science journal \href{https://www.facetsjournal.com/}{Facets}.\\
 \item
-  Submit paper to teaching assistant via \href{https://www.turnitin.com}{turnitin.com}.
+  Submit field experiment paper to teaching assistant via \href{https://www.turnitin.com}{turnitin.com}.
 \end{enumerate}
 
 \hypertarget{field-experiments-gear}{%
@@ -152,9 +152,9 @@ surveys & linear object for quadrat & bamboo, stick, pvc pipe, broom handle cut 
 \bottomrule
 \end{tabular}
 
-\hypertarget{workflow-for-the-data-design-lab-report}{%
-\subsubsection*{Workflow for the data-design lab report}\label{workflow-for-the-data-design-lab-report}}
-\addcontentsline{toc}{subsubsection}{Workflow for the data-design lab report}
+\hypertarget{part-2.-workflow-for-the-data-design-lab-report}{%
+\subsubsection*{Part 2. Workflow for the data-design lab report}\label{part-2.-workflow-for-the-data-design-lab-report}}
+\addcontentsline{toc}{subsubsection}{Part 2. Workflow for the data-design lab report}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -166,7 +166,7 @@ surveys & linear object for quadrat & bamboo, stick, pvc pipe, broom handle cut 
 \item
   Reuse the data to explore your hypothesis and test your predictions.\\
 \item
-  Write a short research `note' format paper suitable for publication in \href{https://www.facetsjournal.com/authors/instructions/}{Facets journal}.\\
+  Write a short research `note' format paper suitable for publication in \href{https://www.facetsjournal.com/}{Facets journal}.\\
 \item
   Submit paper to teaching assistant via \href{https://www.turnitin.com}{turnitin.com}.
 \end{enumerate}
@@ -189,6 +189,16 @@ diversity & look for photographs online & explore how the data were collected vi
 human & check out fitbits and trackers & check out watches, fitbit, trackers and explore limitations (not critical)\\
 \bottomrule
 \end{tabular}
+
+\hypertarget{citation}{%
+\subsubsection*{Citation}\label{citation}}
+\addcontentsline{toc}{subsubsection}{Citation}
+
+Lortie, CJ (2021): Designcraft for experiments. figshare. Book. \url{https://doi.org/10.6084/m9.figshare.14944398.v2}
+
+\hypertarget{license}{%
+\subsubsection*{License}\label{license}}
+\addcontentsline{toc}{subsubsection}{License}
 
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 
@@ -302,8 +312,8 @@ If you choose this adventure, your goal is to experiment with the method of anim
 
 A \href{https://en.wikipedia.org/wiki/BioBlitz}{bioblitz} is a biodiversity survey that is done rapidly for a specific place. National Geographic provides an excellent `getting started' \href{https://media.nationalgeographic.org/assets/file/NationalGeographicBioBlitzGuide.pdf}{guide} to the process.
 
-\hypertarget{learning-outcomes}{%
-\subsubsection*{Learning outcomes}\label{learning-outcomes}}
+\hypertarget{learning-outcomes-1}{%
+\subsubsection*{Learning outcomes}\label{learning-outcomes-1}}
 \addcontentsline{toc}{subsubsection}{Learning outcomes}
 
 \begin{enumerate}
@@ -321,8 +331,8 @@ A \href{https://en.wikipedia.org/wiki/BioBlitz}{bioblitz} is a biodiversity surv
   Contribute to open science by publishing data and meta-data.
 \end{enumerate}
 
-\hypertarget{steps}{%
-\subsubsection*{Steps}\label{steps}}
+\hypertarget{steps-1}{%
+\subsubsection*{Steps}\label{steps-1}}
 \addcontentsline{toc}{subsubsection}{Steps}
 
 \begin{enumerate}
@@ -340,20 +350,20 @@ A \href{https://en.wikipedia.org/wiki/BioBlitz}{bioblitz} is a biodiversity surv
   Record your data to your datasheet and also consider using the \href{https://www.inaturalist.org}{iNaturalist} free app to record and share your observations globally.
 \end{enumerate}
 
-\hypertarget{data}{%
-\subsubsection*{Data}\label{data}}
+\hypertarget{data-1}{%
+\subsubsection*{Data}\label{data-1}}
 \addcontentsline{toc}{subsubsection}{Data}
 
 \href{https://figshare.com/articles/dataset/BIOL3250_bioblitz_datasheet/12792455}{Here} is a sample datasheet for the pilot experiment. This is set up as species-level observations, i.e.~each row is replicate species you observe. This datasheet is not structured for frequency or density - simply a comprehensive list of all animal species you can spot during the pilot experiment.
 
-\hypertarget{meta-data}{%
-\subsubsection*{Meta-data}\label{meta-data}}
+\hypertarget{meta-data-1}{%
+\subsubsection*{Meta-data}\label{meta-data-1}}
 \addcontentsline{toc}{subsubsection}{Meta-data}
 
 Describe how you collected the data. Ensure that each attribute in the dataset has a brief description. This is like an abbreviated version of the methods section in peer-reviewed science publications. Report total sampling time and any relevant details that enable someone else to reuse these data or repeat the process of doing a bioblitz that collecting similar data in a different place.
 
-\hypertarget{deeper-dive}{%
-\subsubsection*{Deeper dive}\label{deeper-dive}}
+\hypertarget{deeper-dive-1}{%
+\subsubsection*{Deeper dive}\label{deeper-dive-1}}
 \addcontentsline{toc}{subsubsection}{Deeper dive}
 
 If you choose this adventure, your goal is to experiment with the method of measuring biodiversity locally. Innovate on the pilot experiment, simple biodiversity inventory methodology to test a hypothesis and predictions. The predictions should be logical and reasonable outcomes if the hypothesis is a good approximation of how the system works, i.e.~the key variables that make it work. Predictions should be testable and read like simple sentences that describe results. The goal of the deeper-dive experiment is to take your pilot experiment, examine what worked and did not work so well in your experiment, and do a deeper and more thorough job of testing a key idea that you are interested in associated with biodiversity patterns locally. The goal should be to explore one key factor that describes why biodiversity varies locally - at the scale you define.
@@ -365,8 +375,8 @@ If you choose this adventure, your goal is to experiment with the method of meas
 
 Distributed ecological networks often use surveys done by individuals or small-teams to compile data on species or communities. Transects and quadrats are typically used to structure these `walk-through' surveys to estimate abundances and distributions of focal species. In this experiment, plants are examined.
 
-\hypertarget{learning-outcomes}{%
-\subsubsection*{Learning outcomes}\label{learning-outcomes}}
+\hypertarget{learning-outcomes-2}{%
+\subsubsection*{Learning outcomes}\label{learning-outcomes-2}}
 \addcontentsline{toc}{subsubsection}{Learning outcomes}
 
 \begin{enumerate}
@@ -384,8 +394,8 @@ Distributed ecological networks often use surveys done by individuals or small-t
   Contribute to open science by publishing data and meta-data.
 \end{enumerate}
 
-\hypertarget{steps}{%
-\subsubsection*{Steps}\label{steps}}
+\hypertarget{steps-2}{%
+\subsubsection*{Steps}\label{steps-2}}
 \addcontentsline{toc}{subsubsection}{Steps}
 
 \begin{enumerate}
@@ -403,20 +413,20 @@ Distributed ecological networks often use surveys done by individuals or small-t
   Estimate the total cover of all plants within the quadrat from 0 to 100\% cover.
 \end{enumerate}
 
-\hypertarget{data}{%
-\subsubsection*{Data}\label{data}}
+\hypertarget{data-2}{%
+\subsubsection*{Data}\label{data-2}}
 \addcontentsline{toc}{subsubsection}{Data}
 
 \href{https://figshare.com/articles/dataset/BIOL3250_survey_datasheet/12792482}{Here} is a sample datasheet for the pilot experiment. This is set up as plot-level observations, i.e.~each row is replicate plot, one for each meter sampled on the 50m transect or line. This datasheet is structured very coarsely to estimate the total number of plant species and total cover of vegetation within the plots.
 
-\hypertarget{meta-data}{%
-\subsubsection*{Meta-data}\label{meta-data}}
+\hypertarget{meta-data-2}{%
+\subsubsection*{Meta-data}\label{meta-data-2}}
 \addcontentsline{toc}{subsubsection}{Meta-data}
 
 Describe how you collected the data. Ensure that each attribute in the dataset has a brief description. This is like an abbreviated version of the methods section in peer-reviewed science publications.
 
-\hypertarget{deeper-dive}{%
-\subsubsection*{Deeper dive}\label{deeper-dive}}
+\hypertarget{deeper-dive-2}{%
+\subsubsection*{Deeper dive}\label{deeper-dive-2}}
 \addcontentsline{toc}{subsubsection}{Deeper dive}
 
 If you choose this adventure, your goal is to experiment with the method of measuring plant communities. Innovate on the pilot experiment design and add more depth to your quantitative description of the plant community. These innovations can include deeper insights into the structure of the community (height of plants, density of all plants, or spatial patterns) or the composition (i.e.~species identity, abundance per species per plot, flowering or not, native or invasive, or by plant functional groups). The predictions should be logical and reasonable outcomes if the hypothesis is a good approximation of how the system works, i.e.~the key variables that make it work. Predictions should be testable and read like simple sentences that describe results. The goal of the deeper-dive experiment is to take your pilot experiment, examine what worked and did not work so well in your experiment, and do a deeper and more thorough job of testing a key idea that you are interested in associated with biodiversity patterns locally. The goal should be to explore one key factor that can be used to describe or predict plant community structure or composition for the specific habitat sampled.
@@ -428,8 +438,8 @@ If you choose this adventure, your goal is to experiment with the method of meas
 
 \href{https://magic.wizards.com/en}{Magic: The Gathering} is a popular collectible card game that includes strategy and chance. If you have not played, here is a great \href{https://en.wikipedia.org/wiki/Magic:_The_Gathering}{description}. This is an excellent example of data collected that is appropriate for experimentation for several reasons. Many games have expansion packs and add-ons. Physical card collecting from sports to fantasy is a very popular activity in addition to a \href{https://www.nytimes.com/2018/03/23/your-money/trading-cards-investment.html}{multi-million dollar} economy and sales continue to \href{https://www.forbes.com/sites/chriscason/2020/05/28/why-the-sports-card-industry-has-not-yet-reached-its-peak/\#763af2e31fb7}{grow}. Consequently, these data are an opportunity to explore likelihood and consumer buying choices. It is also fun. Incidentally, the most valuable card reportedly sold for \href{https://screenrant.com/magic-the-gathering-most-rare-expensive-valuable-cards/}{\$250,000USD} so understanding how frequently rare cards pops up is pretty interesting.
 
-\hypertarget{learning-outcomes}{%
-\subsubsection*{Learning outcomes}\label{learning-outcomes}}
+\hypertarget{learning-outcomes-3}{%
+\subsubsection*{Learning outcomes}\label{learning-outcomes-3}}
 \addcontentsline{toc}{subsubsection}{Learning outcomes}
 
 \begin{enumerate}
@@ -447,8 +457,8 @@ If you choose this adventure, your goal is to experiment with the method of meas
   Communicate data, design, and science succinctly.
 \end{enumerate}
 
-\hypertarget{steps}{%
-\subsubsection*{Steps}\label{steps}}
+\hypertarget{steps-3}{%
+\subsubsection*{Steps}\label{steps-3}}
 \addcontentsline{toc}{subsubsection}{Steps}
 
 \begin{enumerate}
@@ -466,14 +476,14 @@ If you choose this adventure, your goal is to experiment with the method of meas
   Decide if this is the dataset for you to write up as short research note.
 \end{enumerate}
 
-\hypertarget{data}{%
-\subsubsection*{Data}\label{data}}
+\hypertarget{data-3}{%
+\subsubsection*{Data}\label{data-3}}
 \addcontentsline{toc}{subsubsection}{Data}
 
 \href{https://figshare.com/articles/dataset/Magic_The_Gathering_Data/12797474}{Here} are the data collected by a researcher at York University. These data are the first of their kind and super fascinating.
 
-\hypertarget{deeper-dive}{%
-\subsubsection*{Deeper dive}\label{deeper-dive}}
+\hypertarget{deeper-dive-3}{%
+\subsubsection*{Deeper dive}\label{deeper-dive-3}}
 \addcontentsline{toc}{subsubsection}{Deeper dive}
 
 If you choose this adventure, your goal is to explore any component of the data to apply design principles. Informally, we are data mining \citep{RN6800}. Data mining is a field of data science and many other disciplines that is exploding in capacity and application \citep{RN6802, RN6801}. Typically, mining data includes seeking patterns and building models that either focus on description or on prediction. Experimental design principles are not always a component of data mining endeavours, and this is unfortunate. We can do better science and build better models with design thinking principles. It is still an experiment, but someone else (or you) collected data. Data can be used for the explicit purpose they were collected, re-purposed to explore another idea, or simply collected without a priori hypotheses and predictions that we derive later. This is where design thinking can make profound contributions. Select a variable from the data that you think can be a meaningful mechanism or explains patterns, describe differences, or predict outcomes. In this example, this design and experimentation process can include good thinking and data use to examine price prediction, likelihood of rares or other card categories, and pattern frequencies by various card attributes. Begin with one key variable that can be a factor or grouping variable and one key variable that is a response or outcome. Then, do some work, some thinking, try some designs with the data, and make the call if this is data-design lab you will write up.
@@ -485,8 +495,8 @@ If you choose this adventure, your goal is to explore any component of the data 
 
 Diversity data from any citizen science project are profound resources for scientists, non-profits, individuals, managers, and stakeholders. Citizen science is a tool for conservation, data collection, and also policy \citep{RN1320, RN5997}. However, innovation through experimental design is not a component of many projects to date. The bioblitz model is common. We are citizens too as instructors and students, and we interact with a semi-natural, heterogeneous space when we can - campuses. There are at least two examples of data for campuses that can support and enable experimental design thinking. First, the trees on a campus are a viable ecological asset. Second, the biodiversity present on a campus - in addition to human animals.
 
-\hypertarget{learning-outcomes}{%
-\subsubsection*{Learning outcomes}\label{learning-outcomes}}
+\hypertarget{learning-outcomes-4}{%
+\subsubsection*{Learning outcomes}\label{learning-outcomes-4}}
 \addcontentsline{toc}{subsubsection}{Learning outcomes}
 
 \begin{enumerate}
@@ -504,8 +514,8 @@ Diversity data from any citizen science project are profound resources for scien
   Communicate data, design, and science succinctly.
 \end{enumerate}
 
-\hypertarget{steps}{%
-\subsubsection*{Steps}\label{steps}}
+\hypertarget{steps-4}{%
+\subsubsection*{Steps}\label{steps-4}}
 \addcontentsline{toc}{subsubsection}{Steps}
 
 \begin{enumerate}
@@ -523,14 +533,14 @@ Diversity data from any citizen science project are profound resources for scien
   Decide if this is the dataset for you to write up as short research note.
 \end{enumerate}
 
-\hypertarget{data}{%
-\subsubsection*{Data}\label{data}}
+\hypertarget{data-4}{%
+\subsubsection*{Data}\label{data-4}}
 \addcontentsline{toc}{subsubsection}{Data}
 
 \href{https://knb.ecoinformatics.org/view/doi\%3A10.5063\%2FF1CN728G}{Here} are the data collected by ecology students at York University and the University of Toronto Mississauga. \href{https://knb.ecoinformatics.org/view/doi\%3A10.5063\%2FF13F4MZC}{Here} are data for thousands of trees on York University, Keele Campus by a master gardener a number of years ago. In this both instances, click on the csv file to access the data but review the detailed meta-data to support reuse.
 
-\hypertarget{deeper-dive}{%
-\subsubsection*{Deeper dive}\label{deeper-dive}}
+\hypertarget{deeper-dive-4}{%
+\subsubsection*{Deeper dive}\label{deeper-dive-4}}
 \addcontentsline{toc}{subsubsection}{Deeper dive}
 
 If you choose this adventure, your goal is to explore any component of the data to apply design principles. In these examples, the design can include contrasts between different campuses or exploration of variation within a campus in terms of habitats. Do some work, some thinking, try some designs with the data, and make the call if this is data-design lab you will write up.
@@ -542,8 +552,8 @@ If you choose this adventure, your goal is to explore any component of the data 
 
 Data associated with human life. The \href{https://quantifiedself.com}{quantified self} movement is a powerful (and moving) example of personal science and experimental design thinking. It is an experiment of one with trial and error and pre-post intervention thinking. Numerous trackers including smartwatches, phones, dedicated movement trackers such as Fitbits track steps, sleep, heart rate, and numerous other potential indicators of some components of life though big data \citep{RN6807}. This is an opportunity to apply experimental designcraft to yourself and use these experiments to make evidence-informed decisions about exercise, sleep, and work patterns. Gamification is not so different from experimentation in this context and a compelling opportunity to have some fun with activities that you are already doing \citep{RN6808}.
 
-\hypertarget{learning-outcomes}{%
-\subsubsection*{Learning outcomes}\label{learning-outcomes}}
+\hypertarget{learning-outcomes-5}{%
+\subsubsection*{Learning outcomes}\label{learning-outcomes-5}}
 \addcontentsline{toc}{subsubsection}{Learning outcomes}
 
 \begin{enumerate}
@@ -561,8 +571,8 @@ Data associated with human life. The \href{https://quantifiedself.com}{quantifie
   Communicate data, design, and science succinctly.
 \end{enumerate}
 
-\hypertarget{steps}{%
-\subsubsection*{Steps}\label{steps}}
+\hypertarget{steps-5}{%
+\subsubsection*{Steps}\label{steps-5}}
 \addcontentsline{toc}{subsubsection}{Steps}
 
 \begin{enumerate}
@@ -580,14 +590,14 @@ Data associated with human life. The \href{https://quantifiedself.com}{quantifie
   Decide if this is the dataset for you to write up as short research note.
 \end{enumerate}
 
-\hypertarget{data}{%
-\subsubsection*{Data}\label{data}}
+\hypertarget{data-5}{%
+\subsubsection*{Data}\label{data-5}}
 \addcontentsline{toc}{subsubsection}{Data}
 
 \href{https://figshare.com/articles/dataset/Quantified_life/12803105}{Here} are the data collected by me. I wear a simple Fitbit tracker (old one) that tracks only steps and sleeps - not heart rate.
 
-\hypertarget{deeper-dive}{%
-\subsubsection*{Deeper dive}\label{deeper-dive}}
+\hypertarget{deeper-dive-5}{%
+\subsubsection*{Deeper dive}\label{deeper-dive-5}}
 \addcontentsline{toc}{subsubsection}{Deeper dive}
 
 If you choose this adventure, your goal is to explore any component of the data to apply design principles. In this example, the design and experimentation process can examine changes through time in one variable, relationships between variables, or make predictions about change and health and activity through time for this human being. Pattern and prediction are both possible with these data. Do some work, some thinking, try some designs with the data, and make the call if this is data-design lab you will write up.
@@ -603,18 +613,12 @@ There are at least two primary modes of assessment \citep{RN6795}. Formative ass
 
 A rubric is a scoring tool that enables fair, transparent and replicable grading in summative evaluation \citep{RN6799}. Checklists are useful for formative self or peer assessment in the steps along the way to final products. In designcraft for experiments, this applies to the published data with meta-data and lab reports. In the formal offering of these labs for the course `SC/BIOL 3250 4.00 Experimental design for environmental and evolutionary biology' at York University, the lab component is worth 50\% of the final grade.
 
-\hypertarget{lab-component-weightings}{%
-\subsubsection*{Lab component weightings}\label{lab-component-weightings}}
-\addcontentsline{toc}{subsubsection}{Lab component weightings}
+\hypertarget{rubrics-1}{%
+\subsubsection*{Rubrics}\label{rubrics-1}}
+\addcontentsline{toc}{subsubsection}{Rubrics}
 
-Dataset with meta-data for pilot experiment 5\%\\
-Dataset with meta-data for field experiment 5\%\\
-Field lab report 30\%\\
-Data-design lab report 10\%
-
-\hypertarget{specific-rubrics}{%
-\subsubsection*{Specific rubrics}\label{specific-rubrics}}
-\addcontentsline{toc}{subsubsection}{Specific rubrics}
+Formative = checklist for you to mentally tick of as you do work.\\
+Summative = graded by educator to assess work and provide marks.
 
 \hypertarget{formative-checklist-for-pilot-dataset}{%
 \subsubsection*{Formative checklist for pilot dataset}\label{formative-checklist-for-pilot-dataset}}
@@ -635,7 +639,7 @@ check & description & criteria\\
 6 & meta-data & note units and specifics of your data\\
 7 & meta-data & take notes, plan how to write methods\\
 8 & open science & explore figshare, check examples, set up account\\
-9 & open science & publish data and meta-data\\
+9 & open science & compare your data \& meta-data to published, open data\\
 10 & innovation & consider how to improve and what different designs can test\\
 \bottomrule
 \end{tabular}
