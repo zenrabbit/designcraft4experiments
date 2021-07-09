@@ -5,13 +5,9 @@ There are at least two primary modes of assessment [@RN6795]. Formative assessme
 
 A rubric is a scoring tool that enables fair, transparent and replicable grading in summative evaluation [@RN6799]. Checklists are useful for formative self or peer assessment in the steps along the way to final products. In designcraft for experiments, this applies to the published data with meta-data and lab reports. In the formal offering of these labs for the course 'SC/BIOL 3250 4.00 Experimental design for environmental and evolutionary biology' at York University, the lab component is worth 50% of the final grade.
 
-#### Lab component weightings {-}  
-Dataset with meta-data for pilot experiment 5%  
-Dataset with meta-data for field experiment 5%  
-Field lab report 30%  
-Data-design lab report 10%  
-
-#### Specific rubrics {-}  
+#### Rubrics {-}  
+Formative = checklist for you to mentally tick of as you do work.  
+Summative = graded by educator to assess work and provide marks.  
 
 #### Formative checklist for pilot dataset {-}  
 This is not the marking key. This is a simple checklist to consider in doing the work or monitoring your progress in the process of doing the pilot experiment.  
