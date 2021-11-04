@@ -4,10 +4,14 @@
 %
 \documentclass[
 ]{book}
+\title{Designcraft for experiments}
+\author{cjlortie}
+\date{}
+
 \usepackage{amsmath,amssymb}
 \usepackage{lmodern}
-\usepackage{ifxetex,ifluatex}
-\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+\usepackage{iftex}
+\ifPDFTeX
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
@@ -69,15 +73,11 @@
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 \setcounter{secnumdepth}{5}
 \usepackage{booktabs}
-\ifluatex
+\ifLuaTeX
   \usepackage{selnolig}  % disable illegal ligatures
 \fi
 \usepackage[]{natbib}
 \bibliographystyle{apalike}
-
-\title{Designcraft for experiments}
-\author{cjlortie}
-\date{}
 
 \begin{document}
 \maketitle
@@ -620,48 +620,6 @@ A rubric is a scoring tool that enables fair, transparent and replicable grading
 Formative = checklist for you to mentally tick of as you do work.\\
 Summative = graded by educator to assess work and provide marks.
 
-\hypertarget{formative-checklist-for-pilot-dataset}{%
-\subsubsection*{Formative checklist for pilot dataset}\label{formative-checklist-for-pilot-dataset}}
-\addcontentsline{toc}{subsubsection}{Formative checklist for pilot dataset}
-
-This is not the marking key. This is a simple checklist to consider in doing the work or monitoring your progress in the process of doing the pilot experiment.
-
-\begin{tabular}{rll}
-\toprule
-check & description & criteria\\
-\midrule
-1 & design & survey patterns locally, plan design\\
-2 & identification & look up common species, explore field guides\\
-3 & dataset & download, format, enter data\\
-4 & principles & sketch design, take field notes\\
-5 & principles & try different designs and sampling approaches\\
-\addlinespace
-6 & meta-data & note units and specifics of your data\\
-7 & meta-data & take notes, plan how to write methods\\
-8 & open science & explore figshare, check examples, set up account\\
-9 & open science & compare your data \& meta-data to published, open data\\
-10 & innovation & consider how to improve and what different designs can test\\
-\bottomrule
-\end{tabular}
-
-\hypertarget{formative-checklist-for-field-dataset}{%
-\subsubsection*{Formative checklist for field dataset}\label{formative-checklist-for-field-dataset}}
-\addcontentsline{toc}{subsubsection}{Formative checklist for field dataset}
-
-This is not the marking key. This is a simple checklist to consider in doing the work or monitoring your progress in the process of doing the field experiment.
-
-\begin{tabular}{rll}
-\toprule
-item & description & criteria\\
-\midrule
-1 & design & plan design\\
-2 & dataset & plan a tidy dataset, ensure variables can test predictions\\
-3 & meta-data & take detailed notes, record key techniques\\
-4 & meta-data & get a peer to review data and meta-data\\
-5 & open science & publish data and meta-data, ensure clear title, location, and details sufficient\\
-\bottomrule
-\end{tabular}
-
 \hypertarget{summative-marking-key-for-published-datasets}{%
 \subsubsection*{Summative marking key for published datasets}\label{summative-marking-key-for-published-datasets}}
 \addcontentsline{toc}{subsubsection}{Summative marking key for published datasets}
@@ -680,37 +638,13 @@ item & description & criteria & score\\
 \bottomrule
 \end{tabular}
 
-\hypertarget{formative-checklist-for-field-report}{%
-\subsubsection*{Formative checklist for field report}\label{formative-checklist-for-field-report}}
-\addcontentsline{toc}{subsubsection}{Formative checklist for field report}
-
-This is a checklist to consider in writing up the field lab report.
-
-\begin{tabular}{rll}
-\toprule
-check & description & criteria\\
-\midrule
-1 & design & explore system and reuse pilot experiment\\
-2 & identification & examine a key driver within the system\\
-3 & research & check the publish literature on the topic\\
-4 & plan & write hypothesis and predictions\\
-5 & data & collect your field data\\
-\addlinespace
-6 & test & test your data with plots and statistics\\
-7 & confirm & validate your findings with logic and published science\\
-8 & plot & make a single clear plot of data that summarizing key finding\\
-9 & write & write up paper\\
-10 & conclusions & explain the relevance of finding and make a clear conclusion\\
-\bottomrule
-\end{tabular}
-
 \hypertarget{summative-assessment-marking-key-for-field-lab-report}{%
 \subsubsection*{Summative assessment marking key for field lab report}\label{summative-assessment-marking-key-for-field-lab-report}}
 \addcontentsline{toc}{subsubsection}{Summative assessment marking key for field lab report}
 
 This is the marking key for the field lab report. Single spaced, 12 point font, at least 1 inch margins (the default). PDF format only. Lab reports must also be submitted to \href{https://www.turnitin.com}{turnitin.com} .
 
-\href{https://www.facetsjournal.com/authors/instructions/}{Facets journal} is Canada's first and only multidisciplinary open access science journal. Follow the instructions proposed for a research article for this journal - \textbf{5000 words preferred}.
+\href{https://www.facetsjournal.com/for-authors/instructions-to-authors}{Facets journal} is Canada's first and only multidisciplinary open access science journal. Follow the instructions proposed for a research article for this journal. Please keep the length of your article between \textbf{2000 to 5000 words}.
 
 \begin{tabular}{lllr}
 \toprule
@@ -728,37 +662,13 @@ page & concept & description & value\\
 \bottomrule
 \end{tabular}
 
-\hypertarget{formative-checklist-for-data-design-report}{%
-\subsubsection*{Formative checklist for data-design report}\label{formative-checklist-for-data-design-report}}
-\addcontentsline{toc}{subsubsection}{Formative checklist for data-design report}
-
-This is a checklist to consider in writing up the field lab report.
-
-\begin{tabular}{rll}
-\toprule
-check & description & criteria\\
-\midrule
-1 & design & explore data and look for patterns\\
-2 & identification & imagine variables that can become key factors\\
-3 & research & check the publish literature on the topic\\
-4 & plan & write hypothesis and predictions\\
-5 & test & test the data with plots and statistics\\
-\addlinespace
-6 & check & do you have what you need or do you need other data\\
-7 & learn & check short research note papers to see style and writing\\
-8 & plot & make a single clear plot of data that summarizing key finding\\
-9 & write & write up paper\\
-10 & innovation & list ideas for future experiments and implications\\
-\bottomrule
-\end{tabular}
-
 \hypertarget{summative-assessment-marking-key-for-data-design-lab-report}{%
 \subsubsection*{Summative assessment marking key for data-design lab report}\label{summative-assessment-marking-key-for-data-design-lab-report}}
 \addcontentsline{toc}{subsubsection}{Summative assessment marking key for data-design lab report}
 
 This is the marking key for the data-design short report. Single spaced, 12 point font, at least 1 inch margins (the default). PDF format only. Lab reports must also be submitted to \href{https://www.turnitin.com}{turnitin.com}.
 
-\href{https://www.facetsjournal.com/authors/instructions/}{Facets journal} is Canada's first and only multidisciplinary open access science journal. Follow the instructions proposed for a note for this journal - \textbf{1400 words preferred}.
+\href{https://www.facetsjournal.com/for-authors/instructions-to-authors}{Facets journal} is Canada's first and only multidisciplinary open access science journal. Follow the instructions proposed for a note for this journal. Please keep article at \textbf{1400 words or less}.
 
 \begin{tabular}{rllr}
 \toprule

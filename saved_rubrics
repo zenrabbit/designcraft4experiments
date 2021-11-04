@@ -1,4 +1,4 @@
-# Rubrics {#rubrics}
+# Rubrics in full {#saved}
 
 #### Experimental designcraft assessment framework {-} 
 There are at least two primary modes of assessment [@RN6795]. Formative assessment can happen during the learning process [@RN6796]. This active process of engagement with content and doing experiments is critical to becoming an effective life-long learner and successful scientist. In practicing experimental design and doing experiments professionally, this can take the of form of notes, sketches, photographs of the process or experiment at different steps, flowcharts, field and lab notebooks, code, and discussion with collaborators. This process of learning can include feedback from the team (in this course the teaching assistant, the instructor, or peers examining the same challenge). It can be enabled by testing how well one has advanced in achieving specific outcomes. For instance, share your meta-data with a peer and explore whether the individual can understand the meaning of the data and the process of experimentation that supported the collection or reuse of data. Summative assessment can happen at the end of key benchmarks in a learning cycle or at the completion of logical stopping points within the learning process that generated concrete products for review and grading [@RN6798]. In this designcraft process of actively exploring experimental design, this can include production of data with meta-data, a lab report describing the deeper dive for one of the field experiments, and a lab report describing the design process of data reuse from one the examples provided. The process of formative asessment (steps along the way) and summative assessment (final products) should support one another to consolidate learning [@RN6797].  
@@ -9,6 +9,25 @@ A rubric is a scoring tool that enables fair, transparent and replicable grading
 Formative = checklist for you to mentally tick of as you do work.  
 Summative = graded by educator to assess work and provide marks.  
 
+#### Formative checklist for pilot dataset {-}  
+This is not the marking key. This is a simple checklist to consider in doing the work or monitoring your progress in the process of doing the pilot experiment.  
+
+```{r, warning=FALSE, message=FALSE, echo=FALSE}
+library(tidyverse)
+pilot_check <- read_csv("./pilot_data_checklist.csv")
+knitr::kable(pilot_check, booktabs = TRUE)
+
+```
+
+#### Formative checklist for field dataset {-}
+This is not the marking key. This is a simple checklist to consider in doing the work or monitoring your progress in the process of doing the field experiment.  
+
+```{r, warning=FALSE, message=FALSE, echo=FALSE}
+library(tidyverse)
+field_check <- read_csv("./field_data_checklist.csv")
+knitr::kable(field_check, booktabs = TRUE)
+
+```
 
 #### Summative marking key for published datasets {-} 
 This is the marking key you are looking for. This same key is used for both the pilot and field datasets to ensure that you can improve and learn from the process.  
@@ -17,6 +36,17 @@ This is the marking key you are looking for. This same key is used for both the 
 library(tidyverse)
 data_key <- read_csv("./data_meta-data_key.csv")
 knitr::kable(data_key, booktabs = TRUE)
+
+```
+
+
+#### Formative checklist for field report {-}
+This is a checklist to consider in writing up the field lab report.  
+
+```{r, warning=FALSE, message=FALSE, echo=FALSE}
+library(tidyverse)
+field_report_check <- read_csv("./field_report_checklist.csv")
+knitr::kable(field_report_check, booktabs = TRUE)
 
 ```
 
@@ -33,7 +63,15 @@ knitr::kable(field_lab_key, booktabs = TRUE)
 ```
 
 
+#### Formative checklist for data-design report {-}
+This is a checklist to consider in writing up the field lab report.  
 
+```{r, warning=FALSE, message=FALSE, echo=FALSE}
+library(tidyverse)
+data_design_check <- read_csv("./data-design_checklist.csv")
+knitr::kable(data_design_check, booktabs = TRUE)
+
+```
 
 #### Summative assessment marking key for data-design lab report {-}  
 This is the marking key for the data-design short report. Single spaced, 12 point font, at least 1 inch margins (the default). PDF format only. Lab reports must also be submitted to [turnitin.com](https://www.turnitin.com).
