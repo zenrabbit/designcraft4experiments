@@ -7,7 +7,7 @@ documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-description: "This is a set of at-home practical exercises for experimental design."  
+description: "This is a set of practical exercises for experimental design."  
 
 ---
 
@@ -24,6 +24,26 @@ Life is an experiment. Individually and collectively. We experiment everyday. Th
 (2) The data experiments describe the opportunity to use design thinking to structure existing data that others have already collected. The same principles for better experiments still apply in how you reuse the data. There are also three examples provided. Select only one and write up as a note.  
 
 Both report formats supported by [FACETS](https://www.facetsjournal.com/about/). It is the first and only open access science journal in Canada.  
+
+#### Lab outline {-} 
+
+If you are electing to engage with this learning opportunity formally, please see the official course outline for specific details.
+
+There are three summative assessments for the labs.  
+
+1. Dataset with meta-data for field experiment.  
+2. Field lab report.  
+3. Data-design lab report.  
+
+#### Big-picture steps to do labs {-}  
+- Collect data outside individually or as teams on campus or anywhere.    
+- Write meta-data and enter data into spreadsheet and publish/submit for grading from any of the three outdoor labs proposed (try all three, but publish only ONE).  
+- Write up your fav data into a field lab report and submit for grading.  
+
+- Explore the datasets provided herein (data already collected and in Chapters 5-7).  
+- You explore them, think of an idea to do with one of them, and 'experiment' with data. Be creative.    
+- Write super short data-design report and submit for grading.  
+
 
 #### Part 1. Workflow for pilot and field experiment {-} 
 1. Do all three field experiments in brief, pilot only, try each for a few hours.  
@@ -59,7 +79,7 @@ knitr::kable(data_gear, booktabs = TRUE)
 ```
 
 #### Citation {-}  
-Lortie, CJ (2021): Designcraft for experiments. figshare. Book. https://doi.org/10.6084/m9.figshare.14944398.v2 
+Lortie, CJ (2021): Designcraft for experiments. figshare. Book. https://doi.org/10.6084/m9.figshare.14944398.v4 
 
 #### License {-}  
 
