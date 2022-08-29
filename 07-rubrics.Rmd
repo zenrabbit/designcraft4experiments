@@ -11,7 +11,7 @@ Summative = graded by educator to assess work and provide marks.
 
 
 #### Summative marking key for published datasets {-} 
-This is the marking key you are looking for. This same key is used for both the pilot and field datasets to ensure that you can improve and learn from the process.  
+This is the marking key you are looking for. This  key is used for the field datasets to ensure that you can improve and learn from the process. Reminder, metadata are the 'data about the data' - i.e., the descriptions of what each column header means, a list of the key concepts, and a description of the terms within each specific variable. Sometimes, it is really useful to make a short [**meta-data table**](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.9245) to describe the data and upload that file with the observational or experimental data too [@RNtables].   
 
 ```{r, warning=FALSE, message=FALSE, echo=FALSE}
 library(tidyverse)
