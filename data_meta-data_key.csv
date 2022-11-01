@@ -1,6 +1,6 @@
 item,description,criteria,score
-1,data,"tidy, clear labels, no errors",2
+1,data,"tidy (rows and columns logical and organized), clear labels, no errors",2
 2,data,"observations meaningful, accuracy, sufficient (i.e. sufficient replication based on the principles discussed in labs & lecture relevant to the design you used)",2
-3,meta-data,every variable or column clearly described,2
-4,meta-data,description ensures the process of observation be repeated by another,2
-5,open science,"published data with meta-data to figshare with clear title, location, and details sufficient for open science (include url in PDF you submit for grading) and/or in PDF to turnitin include clear title to data, location, and details in a short paragraph only so that someone else can understand the experimental data you collected",2
+3,meta-data,"every variable or column clearly described for the reader, units not within cells, time of day or understanding of format of data clearly described",2
+4,meta-data,"description ensures the process of observation be repeated by another, like a mini-methods to a paper, either as table and/or paragraph",2
+5,open science,"details sufficient for [open science](https://open-science-training-handbook.gitbook.io/book/open-science-basics/reproducible-research-and-data-analysis) (include Figshare url in the PDF you submit for grading), include clear title to data, location, and details in a short paragraph and/or metadata table so that someone else can understand the experimental data you collected, ensure that the data with metadata are a coherent, collective package of evidence that can be used to enable synthesis science as a whole",2
