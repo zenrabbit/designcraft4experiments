@@ -1,6 +1,6 @@
 page,concept,description,value
-1,Title,"Title of experiment, your name, contact details",0
+1,Title,"Title of experiment (like you would see for a peer-reviewed scientific publication, meaningful, and captures the purpose of experiment you did), your name,  ID, contact details, no abstract needed for this super short paper",0
 2,Introduction,"Single paragraph stating background, hypothesis, and your prediction(s)",3
-3,Results,Single brief paragraph stating findings and single figure with legend,5
-4,Conclusions,Single paragraph stating conclusion and implications,2
-5,Lit cited,A total of 3 references,0
+3,Results,Single brief paragraph stating findings and single figure with legend (legend and figure at the end of paper preferred),5
+4,Conclusions,Single paragraph stating conclusion and implications of what you tested with thes data,2
+5,Lit cited,"A total of 3 references, recent published within the last 5 years in a peer-reviewed journal",0

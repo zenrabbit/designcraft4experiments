@@ -1,9 +1,9 @@
 page,concept,description,value
-1,Title & abstract,"Title of experiment (like you would see for a peer-reviewed scientific publication), your name,  ID, contact details, Abstract that describes experiment",5
-2-3,Introduction,"Sets the context, explains why study needs to be done, state hypothesis and predictions",5
-4,Methods,Decribed well enough for someone else to replicate design,5
+1,Title & abstract,"Title of experiment (like you would see for a peer-reviewed scientific publication, meaningful, and captures the purpose of experiment you did), your name,  ID, contact details, Abstract that describes experiment",5
+2-3,Introduction,"Sets the context, explains why study needs to be done, state hypothesis and predictions (i.e. the purpose that you defined and why you collected this specific data using this design)",5
+4,Methods,"Described well enough for someone else to replicate design, explain the relevant details, consider subheadings in Methods such as site, design, and statistics",5
 5,Results,"Clear text should be able to stand alone including description of statistics, consider presenting main findings simply and mentioning covariates and confounding only very simply",5
 6-7,Discussion,"Restate findings in brief and then propose significance of the work and/or link to the published work to date, support, reject, extends what we know",5
-8,Literature cited,"At least 5 recent papers (typically defined as published in a peer-reviewed journal within last 5 years) on topic and 2 on design decisions, any standard citation format such as APA acceptable, the two paper on design decisions can be from general how-to papers or from specific, similar published studies to your lab experiment",0
-9,Figure legend,Figure legend describing what the figure shows.,2
-10,Figure,Figure on a single page,3
+8,Literature cited,"At least 5 recent papers (typically defined as published in a peer-reviewed journal within last 5 years) on topic and 2 on design decisions, any standard citation format such as APA acceptable, the two paper on design decisions can be from general how-to papers or from specific, similar published studies to your lab experiment, we will check for the dates of publications and that there are at least 7 in total that seem reasonable",0
+9,Figure legend,"Figure legend describing what the figure shows, plus put at end of the report before the figure, legend is a short description of what the figure is all about",2
+10,Figure,"Figure at the end of report, on a single page, you need a plot (or table, we can be flexible, but with summary data not raw data) showing the mean, sample size, or if a figure, showing the trend or difference that you tested with statistics ",3

@@ -21,7 +21,7 @@ knitr::kable(data_key, booktabs = TRUE)
 ```
 
 #### Summative assessment marking key for field lab report {-}  
-This is the marking key for the field lab report. Single spaced, 12 point font, at least 1 inch margins (the default). PDF format only. Lab reports must also be submitted to [turnitin.com](https://www.turnitin.com) .
+This is the marking key for the field lab report. Single or double spaced, 12 point font, at least 1 inch margins (the default). PDF format only. Lab reports must also be submitted to [turnitin.com](https://www.turnitin.com). We strongly prefer captions for the figure and figure at the end of the report. 
 
 [Facets journal](https://www.facetsjournal.com/for-authors/instructions-to-authors) is Canada’s first and only multidisciplinary open access science journal. Follow the instructions proposed for a research article for this journal. Please keep the length of your article between **2000 to 5000 words**.  
 
